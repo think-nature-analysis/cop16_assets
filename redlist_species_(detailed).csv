@@ -1,0 +1,970 @@
+SITENAME,Longitude,Latitude,species,group,RDB
+1_USS Chehalis,-170.75,-14.25,Physeter macrocephalus,mammal_marine,VU
+1_USS Chehalis,-170.75,-14.25,Physeter macrocephalus,mammal_marine,VU
+1_USS Chehalis,-170.75,-14.25,Pseudorca crassidens,mammal_marine,NT
+1_USS Chehalis,-170.75,-14.25,Pseudorca crassidens,mammal_marine,NT
+2_JPnm5 Fuel Tank-1,-65.5833333333333,18.25,Balaenoptera musculus,mammal_marine,EN
+2_JPnm5 Fuel Tank-1,-65.5833333333333,18.25,Balaenoptera musculus,mammal_marine,EN
+2_JPnm5 Fuel Tank-1,-65.5833333333333,18.25,Physeter macrocephalus,mammal_marine,VU
+2_JPnm5 Fuel Tank-1,-65.5833333333333,18.25,Physeter macrocephalus,mammal_marine,VU
+2_JPnm5 Fuel Tank-1,-65.5833333333333,18.25,Pseudorca crassidens,mammal_marine,NT
+2_JPnm5 Fuel Tank-1,-65.5833333333333,18.25,Pseudorca crassidens,mammal_marine,NT
+2_JPnm5 Fuel Tank-1,-65.5833333333333,18.25,Tursiops aduncus,mammal_marine,NT
+2_JPnm5 Fuel Tank-1,-65.5833333333333,18.25,Tursiops aduncus,mammal_marine,NT
+3_Argea Prima,-66.75,17.9166666666667,Balaenoptera musculus,mammal_marine,EN
+3_Argea Prima,-66.75,17.9166666666667,Balaenoptera musculus,mammal_marine,EN
+3_Argea Prima,-66.75,17.9166666666667,Physeter macrocephalus,mammal_marine,VU
+3_Argea Prima,-66.75,17.9166666666667,Physeter macrocephalus,mammal_marine,VU
+3_Argea Prima,-66.75,17.9166666666667,Pseudorca crassidens,mammal_marine,NT
+3_Argea Prima,-66.75,17.9166666666667,Pseudorca crassidens,mammal_marine,NT
+3_Argea Prima,-66.75,17.9166666666667,Tursiops aduncus,mammal_marine,NT
+3_Argea Prima,-66.75,17.9166666666667,Tursiops aduncus,mammal_marine,NT
+4_General Colocotronis,-76.25,25.25,Balaenoptera borealis,mammal_marine,EN
+4_General Colocotronis,-76.25,25.25,Balaenoptera borealis,mammal_marine,EN
+4_General Colocotronis,-76.25,25.25,Hyperoodon ampullatus,mammal_marine,NT
+4_General Colocotronis,-76.25,25.25,Hyperoodon ampullatus,mammal_marine,NT
+4_General Colocotronis,-76.25,25.25,Physeter macrocephalus,mammal_marine,VU
+4_General Colocotronis,-76.25,25.25,Physeter macrocephalus,mammal_marine,VU
+4_General Colocotronis,-76.25,25.25,Pseudorca crassidens,mammal_marine,NT
+4_General Colocotronis,-76.25,25.25,Pseudorca crassidens,mammal_marine,NT
+4_General Colocotronis,-76.25,25.25,Tursiops aduncus,mammal_marine,NT
+4_General Colocotronis,-76.25,25.25,Tursiops aduncus,mammal_marine,NT
+5_Ocean Eagle,-66.25,18.4166666666667,Pseudorca crassidens,mammal_marine,NT
+5_Ocean Eagle,-66.25,18.4166666666667,Pseudorca crassidens,mammal_marine,NT
+5_Ocean Eagle,-66.25,18.4166666666667,Tursiops aduncus,mammal_marine,NT
+5_Ocean Eagle,-66.25,18.4166666666667,Tursiops aduncus,mammal_marine,NT
+6_Witwater,-80.75,9.58333333333334,Physeter macrocephalus,mammal_marine,VU
+6_Witwater,-80.75,9.58333333333334,Physeter macrocephalus,mammal_marine,VU
+6_Witwater,-80.75,9.58333333333334,Pseudorca crassidens,mammal_marine,NT
+6_Witwater,-80.75,9.58333333333334,Pseudorca crassidens,mammal_marine,NT
+7_Chevron Main Pass Block 41 Well Head,-88.9166666666667,29.4166666666667,Eubalaena glacialis,mammal_marine,CR
+7_Chevron Main Pass Block 41 Well Head,-88.9166666666667,29.4166666666667,Eubalaena glacialis,mammal_marine,CR
+7_Chevron Main Pass Block 41 Well Head,-88.9166666666667,29.4166666666667,Physeter macrocephalus,mammal_marine,VU
+7_Chevron Main Pass Block 41 Well Head,-88.9166666666667,29.4166666666667,Physeter macrocephalus,mammal_marine,VU
+7_Chevron Main Pass Block 41 Well Head,-88.9166666666667,29.4166666666667,Pseudorca crassidens,mammal_marine,NT
+7_Chevron Main Pass Block 41 Well Head,-88.9166666666667,29.4166666666667,Pseudorca crassidens,mammal_marine,NT
+7_Chevron Main Pass Block 41 Well Head,-88.9166666666667,29.4166666666667,Tursiops aduncus,mammal_marine,NT
+7_Chevron Main Pass Block 41 Well Head,-88.9166666666667,29.4166666666667,Tursiops aduncus,mammal_marine,NT
+8_Santa Augusta,-64.75,17.75,Balaenoptera borealis,mammal_marine,EN
+8_Santa Augusta,-64.75,17.75,Balaenoptera borealis,mammal_marine,EN
+8_Santa Augusta,-64.75,17.75,Physeter macrocephalus,mammal_marine,VU
+8_Santa Augusta,-64.75,17.75,Physeter macrocephalus,mammal_marine,VU
+8_Santa Augusta,-64.75,17.75,Pseudorca crassidens,mammal_marine,NT
+8_Santa Augusta,-64.75,17.75,Pseudorca crassidens,mammal_marine,NT
+9_Bayou Lafousche/Barge PC 2901,-94.9166666666667,29.5833333333333,Physeter macrocephalus,mammal_marine,VU
+9_Bayou Lafousche/Barge PC 2901,-94.9166666666667,29.5833333333333,Physeter macrocephalus,mammal_marine,VU
+9_Bayou Lafousche/Barge PC 2901,-94.9166666666667,29.5833333333333,Pseudorca crassidens,mammal_marine,NT
+9_Bayou Lafousche/Barge PC 2901,-94.9166666666667,29.5833333333333,Pseudorca crassidens,mammal_marine,NT
+10_Zoe Colocotroni,-67.25,18.0833333333333,Balaenoptera musculus,mammal_marine,EN
+10_Zoe Colocotroni,-67.25,18.0833333333333,Balaenoptera musculus,mammal_marine,EN
+10_Zoe Colocotroni,-67.25,18.0833333333333,Physeter macrocephalus,mammal_marine,VU
+10_Zoe Colocotroni,-67.25,18.0833333333333,Physeter macrocephalus,mammal_marine,VU
+10_Zoe Colocotroni,-67.25,18.0833333333333,Pseudorca crassidens,mammal_marine,NT
+10_Zoe Colocotroni,-67.25,18.0833333333333,Pseudorca crassidens,mammal_marine,NT
+10_Zoe Colocotroni,-67.25,18.0833333333333,Tursiops aduncus,mammal_marine,NT
+10_Zoe Colocotroni,-67.25,18.0833333333333,Tursiops aduncus,mammal_marine,NT
+11_Trinimar Marine Well 327,-62.0833333333333,10.5833333333333,Pseudorca crassidens,mammal_marine,NT
+11_Trinimar Marine Well 327,-62.0833333333333,10.5833333333333,Pseudorca crassidens,mammal_marine,NT
+11_Trinimar Marine Well 327,-62.0833333333333,10.5833333333333,Tursiops aduncus,mammal_marine,NT
+11_Trinimar Marine Well 327,-62.0833333333333,10.5833333333333,Tursiops aduncus,mammal_marine,NT
+12_Tarik Ibn Ziyad,-43.25,-22.9166666666667,Pontoporia blainvillei,mammal_marine,VU
+12_Tarik Ibn Ziyad,-43.25,-22.9166666666667,Pontoporia blainvillei,mammal_marine,VU
+12_Tarik Ibn Ziyad,-43.25,-22.9166666666667,Pseudorca crassidens,mammal_marine,NT
+12_Tarik Ibn Ziyad,-43.25,-22.9166666666667,Pseudorca crassidens,mammal_marine,NT
+12_Tarik Ibn Ziyad,-43.25,-22.9166666666667,Tursiops aduncus,mammal_marine,NT
+12_Tarik Ibn Ziyad,-43.25,-22.9166666666667,Tursiops aduncus,mammal_marine,NT
+13_Globtik Sun,-93.0833333333333,28.25,Physeter macrocephalus,mammal_marine,VU
+13_Globtik Sun,-93.0833333333333,28.25,Physeter macrocephalus,mammal_marine,VU
+13_Globtik Sun,-93.0833333333333,28.25,Pseudorca crassidens,mammal_marine,NT
+13_Globtik Sun,-93.0833333333333,28.25,Pseudorca crassidens,mammal_marine,NT
+14_Garbis,-81.4166666666667,24.4166666666667,Physeter macrocephalus,mammal_marine,VU
+14_Garbis,-81.4166666666667,24.4166666666667,Physeter macrocephalus,mammal_marine,VU
+14_Garbis,-81.4166666666667,24.4166666666667,Pseudorca crassidens,mammal_marine,NT
+14_Garbis,-81.4166666666667,24.4166666666667,Pseudorca crassidens,mammal_marine,NT
+14_Garbis,-81.4166666666667,24.4166666666667,Tursiops aduncus,mammal_marine,NT
+14_Garbis,-81.4166666666667,24.4166666666667,Tursiops aduncus,mammal_marine,NT
+15_Tank Barge Z-102,-66.0833333333333,18.4166666666667,Balaenoptera musculus,mammal_marine,EN
+15_Tank Barge Z-102,-66.0833333333333,18.4166666666667,Balaenoptera musculus,mammal_marine,EN
+15_Tank Barge Z-102,-66.0833333333333,18.4166666666667,Pseudorca crassidens,mammal_marine,NT
+15_Tank Barge Z-102,-66.0833333333333,18.4166666666667,Pseudorca crassidens,mammal_marine,NT
+15_Tank Barge Z-102,-66.0833333333333,18.4166666666667,Tursiops aduncus,mammal_marine,NT
+15_Tank Barge Z-102,-66.0833333333333,18.4166666666667,Tursiops aduncus,mammal_marine,NT
+16_Saint Peter,-79.5833333333333,1.58333333333334,Balaenoptera musculus,mammal_marine,EN
+16_Saint Peter,-79.5833333333333,1.58333333333334,Balaenoptera musculus,mammal_marine,EN
+16_Saint Peter,-79.5833333333333,1.58333333333334,Physeter macrocephalus,mammal_marine,VU
+16_Saint Peter,-79.5833333333333,1.58333333333334,Physeter macrocephalus,mammal_marine,VU
+17_Brazilian Marina,-45.75,-23.75,Balaenoptera musculus,mammal_marine,EN
+17_Brazilian Marina,-45.75,-23.75,Balaenoptera musculus,mammal_marine,EN
+17_Brazilian Marina,-45.75,-23.75,Physeter macrocephalus,mammal_marine,VU
+17_Brazilian Marina,-45.75,-23.75,Physeter macrocephalus,mammal_marine,VU
+17_Brazilian Marina,-45.75,-23.75,Pontoporia blainvillei,mammal_marine,VU
+17_Brazilian Marina,-45.75,-23.75,Pontoporia blainvillei,mammal_marine,VU
+17_Brazilian Marina,-45.75,-23.75,Pseudorca crassidens,mammal_marine,NT
+17_Brazilian Marina,-45.75,-23.75,Pseudorca crassidens,mammal_marine,NT
+17_Brazilian Marina,-45.75,-23.75,Tursiops aduncus,mammal_marine,NT
+17_Brazilian Marina,-45.75,-23.75,Tursiops aduncus,mammal_marine,NT
+18_Peck Slip,-65.5833333333333,18.25,Balaenoptera musculus,mammal_marine,EN
+18_Peck Slip,-65.5833333333333,18.25,Balaenoptera musculus,mammal_marine,EN
+18_Peck Slip,-65.5833333333333,18.25,Physeter macrocephalus,mammal_marine,VU
+18_Peck Slip,-65.5833333333333,18.25,Physeter macrocephalus,mammal_marine,VU
+18_Peck Slip,-65.5833333333333,18.25,Pseudorca crassidens,mammal_marine,NT
+18_Peck Slip,-65.5833333333333,18.25,Pseudorca crassidens,mammal_marine,NT
+18_Peck Slip,-65.5833333333333,18.25,Tursiops aduncus,mammal_marine,NT
+18_Peck Slip,-65.5833333333333,18.25,Tursiops aduncus,mammal_marine,NT
+19_JPnm5 Fuel Tank-2,-65.5833333333333,18.25,Balaenoptera musculus,mammal_marine,EN
+19_JPnm5 Fuel Tank-2,-65.5833333333333,18.25,Balaenoptera musculus,mammal_marine,EN
+19_JPnm5 Fuel Tank-2,-65.5833333333333,18.25,Physeter macrocephalus,mammal_marine,VU
+19_JPnm5 Fuel Tank-2,-65.5833333333333,18.25,Physeter macrocephalus,mammal_marine,VU
+19_JPnm5 Fuel Tank-2,-65.5833333333333,18.25,Pseudorca crassidens,mammal_marine,NT
+19_JPnm5 Fuel Tank-2,-65.5833333333333,18.25,Pseudorca crassidens,mammal_marine,NT
+19_JPnm5 Fuel Tank-2,-65.5833333333333,18.25,Tursiops aduncus,mammal_marine,NT
+19_JPnm5 Fuel Tank-2,-65.5833333333333,18.25,Tursiops aduncus,mammal_marine,NT
+20_Howard Star,-82.4166666666667,27.9166666666667,Physeter macrocephalus,mammal_marine,VU
+20_Howard Star,-82.4166666666667,27.9166666666667,Physeter macrocephalus,mammal_marine,VU
+20_Howard Star,-82.4166666666667,27.9166666666667,Pseudorca crassidens,mammal_marine,NT
+20_Howard Star,-82.4166666666667,27.9166666666667,Pseudorca crassidens,mammal_marine,NT
+20_Howard Star,-82.4166666666667,27.9166666666667,Tursiops aduncus,mammal_marine,NT
+20_Howard Star,-82.4166666666667,27.9166666666667,Tursiops aduncus,mammal_marine,NT
+21_Ixtoc 1 Oil Well Head,-92.25,19.4166666666667,Pseudorca crassidens,mammal_marine,NT
+21_Ixtoc 1 Oil Well Head,-92.25,19.4166666666667,Pseudorca crassidens,mammal_marine,NT
+21_Ixtoc 1 Oil Well Head,-92.25,19.4166666666667,Tursiops aduncus,mammal_marine,NT
+21_Ixtoc 1 Oil Well Head,-92.25,19.4166666666667,Tursiops aduncus,mammal_marine,NT
+22_Burmah Agate,-94.5833333333333,29.25,Eubalaena glacialis,mammal_marine,CR
+22_Burmah Agate,-94.5833333333333,29.25,Eubalaena glacialis,mammal_marine,CR
+22_Burmah Agate,-94.5833333333333,29.25,Physeter macrocephalus,mammal_marine,VU
+22_Burmah Agate,-94.5833333333333,29.25,Physeter macrocephalus,mammal_marine,VU
+22_Burmah Agate,-94.5833333333333,29.25,Pseudorca crassidens,mammal_marine,NT
+22_Burmah Agate,-94.5833333333333,29.25,Pseudorca crassidens,mammal_marine,NT
+22_Burmah Agate,-94.5833333333333,29.25,Tursiops aduncus,mammal_marine,NT
+22_Burmah Agate,-94.5833333333333,29.25,Tursiops aduncus,mammal_marine,NT
+23_Tanker unspecified,-65.5833333333333,18.25,Balaenoptera musculus,mammal_marine,EN
+23_Tanker unspecified,-65.5833333333333,18.25,Balaenoptera musculus,mammal_marine,EN
+23_Tanker unspecified,-65.5833333333333,18.25,Physeter macrocephalus,mammal_marine,VU
+23_Tanker unspecified,-65.5833333333333,18.25,Physeter macrocephalus,mammal_marine,VU
+23_Tanker unspecified,-65.5833333333333,18.25,Pseudorca crassidens,mammal_marine,NT
+23_Tanker unspecified,-65.5833333333333,18.25,Pseudorca crassidens,mammal_marine,NT
+23_Tanker unspecified,-65.5833333333333,18.25,Tursiops aduncus,mammal_marine,NT
+23_Tanker unspecified,-65.5833333333333,18.25,Tursiops aduncus,mammal_marine,NT
+24_Pipeline rupture-1,-46.25,-24.0833333333333,Balaenoptera musculus,mammal_marine,EN
+24_Pipeline rupture-1,-46.25,-24.0833333333333,Balaenoptera musculus,mammal_marine,EN
+24_Pipeline rupture-1,-46.25,-24.0833333333333,Eubalaena glacialis,mammal_marine,CR
+24_Pipeline rupture-1,-46.25,-24.0833333333333,Eubalaena glacialis,mammal_marine,CR
+24_Pipeline rupture-1,-46.25,-24.0833333333333,Physeter macrocephalus,mammal_marine,VU
+24_Pipeline rupture-1,-46.25,-24.0833333333333,Physeter macrocephalus,mammal_marine,VU
+24_Pipeline rupture-1,-46.25,-24.0833333333333,Pontoporia blainvillei,mammal_marine,VU
+24_Pipeline rupture-1,-46.25,-24.0833333333333,Pontoporia blainvillei,mammal_marine,VU
+24_Pipeline rupture-1,-46.25,-24.0833333333333,Pseudorca crassidens,mammal_marine,NT
+24_Pipeline rupture-1,-46.25,-24.0833333333333,Pseudorca crassidens,mammal_marine,NT
+24_Pipeline rupture-1,-46.25,-24.0833333333333,Tursiops aduncus,mammal_marine,NT
+24_Pipeline rupture-1,-46.25,-24.0833333333333,Tursiops aduncus,mammal_marine,NT
+25_Alvenus,-93.25,29.5833333333333,Eubalaena glacialis,mammal_marine,CR
+25_Alvenus,-93.25,29.5833333333333,Eubalaena glacialis,mammal_marine,CR
+25_Alvenus,-93.25,29.5833333333333,Physeter macrocephalus,mammal_marine,VU
+25_Alvenus,-93.25,29.5833333333333,Physeter macrocephalus,mammal_marine,VU
+25_Alvenus,-93.25,29.5833333333333,Pseudorca crassidens,mammal_marine,NT
+25_Alvenus,-93.25,29.5833333333333,Pseudorca crassidens,mammal_marine,NT
+25_Alvenus,-93.25,29.5833333333333,Tursiops aduncus,mammal_marine,NT
+25_Alvenus,-93.25,29.5833333333333,Tursiops aduncus,mammal_marine,NT
+26_MV Nememcha,-82.0833333333333,24.25,Physeter macrocephalus,mammal_marine,VU
+26_MV Nememcha,-82.0833333333333,24.25,Physeter macrocephalus,mammal_marine,VU
+26_MV Nememcha,-82.0833333333333,24.25,Pseudorca crassidens,mammal_marine,NT
+26_MV Nememcha,-82.0833333333333,24.25,Pseudorca crassidens,mammal_marine,NT
+27_MV A.Regina,-90.25,29.0833333333333,Eubalaena glacialis,mammal_marine,CR
+27_MV A.Regina,-90.25,29.0833333333333,Eubalaena glacialis,mammal_marine,CR
+27_MV A.Regina,-90.25,29.0833333333333,Physeter macrocephalus,mammal_marine,VU
+27_MV A.Regina,-90.25,29.0833333333333,Physeter macrocephalus,mammal_marine,VU
+27_MV A.Regina,-90.25,29.0833333333333,Pseudorca crassidens,mammal_marine,NT
+27_MV A.Regina,-90.25,29.0833333333333,Pseudorca crassidens,mammal_marine,NT
+27_MV A.Regina,-90.25,29.0833333333333,Tursiops aduncus,mammal_marine,NT
+27_MV A.Regina,-90.25,29.0833333333333,Tursiops aduncus,mammal_marine,NT
+28_Navy Carrier Coral Sea and TV,-74.75,19.25,Physeter macrocephalus,mammal_marine,VU
+28_Navy Carrier Coral Sea and TV,-74.75,19.25,Physeter macrocephalus,mammal_marine,VU
+28_Navy Carrier Coral Sea and TV,-74.75,19.25,Pseudorca crassidens,mammal_marine,NT
+28_Navy Carrier Coral Sea and TV,-74.75,19.25,Pseudorca crassidens,mammal_marine,NT
+29_TV Kate Maersk,-89.9166666666667,28.75,Eubalaena glacialis,mammal_marine,CR
+29_TV Kate Maersk,-89.9166666666667,28.75,Eubalaena glacialis,mammal_marine,CR
+29_TV Kate Maersk,-89.9166666666667,28.75,Physeter macrocephalus,mammal_marine,VU
+29_TV Kate Maersk,-89.9166666666667,28.75,Physeter macrocephalus,mammal_marine,VU
+29_TV Kate Maersk,-89.9166666666667,28.75,Pseudorca crassidens,mammal_marine,NT
+29_TV Kate Maersk,-89.9166666666667,28.75,Pseudorca crassidens,mammal_marine,NT
+30_MV Sybil I,-89.25,29.0833333333333,Physeter macrocephalus,mammal_marine,VU
+30_MV Sybil I,-89.25,29.0833333333333,Physeter macrocephalus,mammal_marine,VU
+30_MV Sybil I,-89.25,29.0833333333333,Pseudorca crassidens,mammal_marine,NT
+30_MV Sybil I,-89.25,29.0833333333333,Pseudorca crassidens,mammal_marine,NT
+31_Mobil Oil Pipeline,-92.0833333333333,29.25,Eubalaena glacialis,mammal_marine,CR
+31_Mobil Oil Pipeline,-92.0833333333333,29.25,Eubalaena glacialis,mammal_marine,CR
+31_Mobil Oil Pipeline,-92.0833333333333,29.25,Physeter macrocephalus,mammal_marine,VU
+31_Mobil Oil Pipeline,-92.0833333333333,29.25,Physeter macrocephalus,mammal_marine,VU
+31_Mobil Oil Pipeline,-92.0833333333333,29.25,Pseudorca crassidens,mammal_marine,NT
+31_Mobil Oil Pipeline,-92.0833333333333,29.25,Pseudorca crassidens,mammal_marine,NT
+31_Mobil Oil Pipeline,-92.0833333333333,29.25,Tursiops aduncus,mammal_marine,NT
+31_Mobil Oil Pipeline,-92.0833333333333,29.25,Tursiops aduncus,mammal_marine,NT
+32_St Thomas Barge,-64.9166666666667,18.4166666666667,Balaenoptera musculus,mammal_marine,EN
+32_St Thomas Barge,-64.9166666666667,18.4166666666667,Balaenoptera musculus,mammal_marine,EN
+32_St Thomas Barge,-64.9166666666667,18.4166666666667,Physeter macrocephalus,mammal_marine,VU
+32_St Thomas Barge,-64.9166666666667,18.4166666666667,Physeter macrocephalus,mammal_marine,VU
+32_St Thomas Barge,-64.9166666666667,18.4166666666667,Pseudorca crassidens,mammal_marine,NT
+32_St Thomas Barge,-64.9166666666667,18.4166666666667,Pseudorca crassidens,mammal_marine,NT
+32_St Thomas Barge,-64.9166666666667,18.4166666666667,Tursiops aduncus,mammal_marine,NT
+32_St Thomas Barge,-64.9166666666667,18.4166666666667,Tursiops aduncus,mammal_marine,NT
+33_Texaco Refinery,-79.0833333333333,9.75,Balaenoptera musculus,mammal_marine,EN
+33_Texaco Refinery,-79.0833333333333,9.75,Balaenoptera musculus,mammal_marine,EN
+33_Texaco Refinery,-79.0833333333333,9.75,Physeter macrocephalus,mammal_marine,VU
+33_Texaco Refinery,-79.0833333333333,9.75,Physeter macrocephalus,mammal_marine,VU
+33_Texaco Refinery,-79.0833333333333,9.75,Pseudorca crassidens,mammal_marine,NT
+33_Texaco Refinery,-79.0833333333333,9.75,Pseudorca crassidens,mammal_marine,NT
+34_TV Price William Sound,-106.25,20.75,Balaenoptera musculus,mammal_marine,EN
+34_TV Price William Sound,-106.25,20.75,Balaenoptera musculus,mammal_marine,EN
+34_TV Price William Sound,-106.25,20.75,Physeter macrocephalus,mammal_marine,VU
+34_TV Price William Sound,-106.25,20.75,Physeter macrocephalus,mammal_marine,VU
+34_TV Price William Sound,-106.25,20.75,Pseudorca crassidens,mammal_marine,NT
+34_TV Price William Sound,-106.25,20.75,Pseudorca crassidens,mammal_marine,NT
+35_JP-5 fuel tank Roosevelt Roads,-65.0833333333333,18.0833333333333,Balaenoptera borealis,mammal_marine,EN
+35_JP-5 fuel tank Roosevelt Roads,-65.0833333333333,18.0833333333333,Balaenoptera borealis,mammal_marine,EN
+35_JP-5 fuel tank Roosevelt Roads,-65.0833333333333,18.0833333333333,Balaenoptera musculus,mammal_marine,EN
+35_JP-5 fuel tank Roosevelt Roads,-65.0833333333333,18.0833333333333,Balaenoptera musculus,mammal_marine,EN
+35_JP-5 fuel tank Roosevelt Roads,-65.0833333333333,18.0833333333333,Physeter macrocephalus,mammal_marine,VU
+35_JP-5 fuel tank Roosevelt Roads,-65.0833333333333,18.0833333333333,Physeter macrocephalus,mammal_marine,VU
+35_JP-5 fuel tank Roosevelt Roads,-65.0833333333333,18.0833333333333,Pseudorca crassidens,mammal_marine,NT
+35_JP-5 fuel tank Roosevelt Roads,-65.0833333333333,18.0833333333333,Pseudorca crassidens,mammal_marine,NT
+35_JP-5 fuel tank Roosevelt Roads,-65.0833333333333,18.0833333333333,Tursiops aduncus,mammal_marine,NT
+35_JP-5 fuel tank Roosevelt Roads,-65.0833333333333,18.0833333333333,Tursiops aduncus,mammal_marine,NT
+36_Chevron Pipeline-1,-157.916666666667,21.4166666666667,Balaenoptera musculus,mammal_marine,EN
+36_Chevron Pipeline-1,-157.916666666667,21.4166666666667,Balaenoptera musculus,mammal_marine,EN
+36_Chevron Pipeline-1,-157.916666666667,21.4166666666667,Physeter macrocephalus,mammal_marine,VU
+36_Chevron Pipeline-1,-157.916666666667,21.4166666666667,Physeter macrocephalus,mammal_marine,VU
+36_Chevron Pipeline-1,-157.916666666667,21.4166666666667,Pseudorca crassidens,mammal_marine,NT
+36_Chevron Pipeline-1,-157.916666666667,21.4166666666667,Pseudorca crassidens,mammal_marine,NT
+37_YUM II/Zapoteca well,-92.5833333333333,18.75,Pseudorca crassidens,mammal_marine,NT
+37_YUM II/Zapoteca well,-92.5833333333333,18.75,Pseudorca crassidens,mammal_marine,NT
+37_YUM II/Zapoteca well,-92.5833333333333,18.75,Tursiops aduncus,mammal_marine,NT
+37_YUM II/Zapoteca well,-92.5833333333333,18.75,Tursiops aduncus,mammal_marine,NT
+38_Texaco Caribbean Terminal,-64.75,17.75,Balaenoptera borealis,mammal_marine,EN
+38_Texaco Caribbean Terminal,-64.75,17.75,Balaenoptera borealis,mammal_marine,EN
+38_Texaco Caribbean Terminal,-64.75,17.75,Physeter macrocephalus,mammal_marine,VU
+38_Texaco Caribbean Terminal,-64.75,17.75,Physeter macrocephalus,mammal_marine,VU
+38_Texaco Caribbean Terminal,-64.75,17.75,Pseudorca crassidens,mammal_marine,NT
+38_Texaco Caribbean Terminal,-64.75,17.75,Pseudorca crassidens,mammal_marine,NT
+39_TB Gran Tor,-69.0833333333333,19.4166666666667,Physeter macrocephalus,mammal_marine,VU
+39_TB Gran Tor,-69.0833333333333,19.4166666666667,Physeter macrocephalus,mammal_marine,VU
+39_TB Gran Tor,-69.0833333333333,19.4166666666667,Pseudorca crassidens,mammal_marine,NT
+39_TB Gran Tor,-69.0833333333333,19.4166666666667,Pseudorca crassidens,mammal_marine,NT
+40_TV Captain W. Arvelo,-69.0833333333333,19.4166666666667,Physeter macrocephalus,mammal_marine,VU
+40_TV Captain W. Arvelo,-69.0833333333333,19.4166666666667,Physeter macrocephalus,mammal_marine,VU
+40_TV Captain W. Arvelo,-69.0833333333333,19.4166666666667,Pseudorca crassidens,mammal_marine,NT
+40_TV Captain W. Arvelo,-69.0833333333333,19.4166666666667,Pseudorca crassidens,mammal_marine,NT
+41_Exxon Houston,-158.083333333333,21.25,Balaenoptera musculus,mammal_marine,EN
+41_Exxon Houston,-158.083333333333,21.25,Balaenoptera musculus,mammal_marine,EN
+41_Exxon Houston,-158.083333333333,21.25,Physeter macrocephalus,mammal_marine,VU
+41_Exxon Houston,-158.083333333333,21.25,Physeter macrocephalus,mammal_marine,VU
+41_Exxon Houston,-158.083333333333,21.25,Pseudorca crassidens,mammal_marine,NT
+41_Exxon Houston,-158.083333333333,21.25,Pseudorca crassidens,mammal_marine,NT
+42_Amazon Venture,-66.75,17.9166666666667,Balaenoptera musculus,mammal_marine,EN
+42_Amazon Venture,-66.75,17.9166666666667,Balaenoptera musculus,mammal_marine,EN
+42_Amazon Venture,-66.75,17.9166666666667,Physeter macrocephalus,mammal_marine,VU
+42_Amazon Venture,-66.75,17.9166666666667,Physeter macrocephalus,mammal_marine,VU
+42_Amazon Venture,-66.75,17.9166666666667,Pseudorca crassidens,mammal_marine,NT
+42_Amazon Venture,-66.75,17.9166666666667,Pseudorca crassidens,mammal_marine,NT
+42_Amazon Venture,-66.75,17.9166666666667,Tursiops aduncus,mammal_marine,NT
+42_Amazon Venture,-66.75,17.9166666666667,Tursiops aduncus,mammal_marine,NT
+43_Chevron Pipeline-2,-88.4166666666667,30.25,Eubalaena glacialis,mammal_marine,CR
+43_Chevron Pipeline-2,-88.4166666666667,30.25,Eubalaena glacialis,mammal_marine,CR
+43_Chevron Pipeline-2,-88.4166666666667,30.25,Physeter macrocephalus,mammal_marine,VU
+43_Chevron Pipeline-2,-88.4166666666667,30.25,Physeter macrocephalus,mammal_marine,VU
+43_Chevron Pipeline-2,-88.4166666666667,30.25,Pseudorca crassidens,mammal_marine,NT
+43_Chevron Pipeline-2,-88.4166666666667,30.25,Pseudorca crassidens,mammal_marine,NT
+43_Chevron Pipeline-2,-88.4166666666667,30.25,Tursiops aduncus,mammal_marine,NT
+43_Chevron Pipeline-2,-88.4166666666667,30.25,Tursiops aduncus,mammal_marine,NT
+44_Virgin Islands Water Power Authority plant,-64.75,17.75,Balaenoptera borealis,mammal_marine,EN
+44_Virgin Islands Water Power Authority plant,-64.75,17.75,Balaenoptera borealis,mammal_marine,EN
+44_Virgin Islands Water Power Authority plant,-64.75,17.75,Physeter macrocephalus,mammal_marine,VU
+44_Virgin Islands Water Power Authority plant,-64.75,17.75,Physeter macrocephalus,mammal_marine,VU
+44_Virgin Islands Water Power Authority plant,-64.75,17.75,Pseudorca crassidens,mammal_marine,NT
+44_Virgin Islands Water Power Authority plant,-64.75,17.75,Pseudorca crassidens,mammal_marine,NT
+45_Amerada Hess Oil Co.,-64.75,17.75,Balaenoptera borealis,mammal_marine,EN
+45_Amerada Hess Oil Co.,-64.75,17.75,Balaenoptera borealis,mammal_marine,EN
+45_Amerada Hess Oil Co.,-64.75,17.75,Physeter macrocephalus,mammal_marine,VU
+45_Amerada Hess Oil Co.,-64.75,17.75,Physeter macrocephalus,mammal_marine,VU
+45_Amerada Hess Oil Co.,-64.75,17.75,Pseudorca crassidens,mammal_marine,NT
+45_Amerada Hess Oil Co.,-64.75,17.75,Pseudorca crassidens,mammal_marine,NT
+46_Mega Borg,-94.0833333333333,28.5833333333333,Eubalaena glacialis,mammal_marine,CR
+46_Mega Borg,-94.0833333333333,28.5833333333333,Eubalaena glacialis,mammal_marine,CR
+46_Mega Borg,-94.0833333333333,28.5833333333333,Physeter macrocephalus,mammal_marine,VU
+46_Mega Borg,-94.0833333333333,28.5833333333333,Physeter macrocephalus,mammal_marine,VU
+46_Mega Borg,-94.0833333333333,28.5833333333333,Pseudorca crassidens,mammal_marine,NT
+46_Mega Borg,-94.0833333333333,28.5833333333333,Pseudorca crassidens,mammal_marine,NT
+46_Mega Borg,-94.0833333333333,28.5833333333333,Tursiops aduncus,mammal_marine,NT
+46_Mega Borg,-94.0833333333333,28.5833333333333,Tursiops aduncus,mammal_marine,NT
+47_MV Jesula II,-80.0833333333333,25.75,Eubalaena glacialis,mammal_marine,CR
+47_MV Jesula II,-80.0833333333333,25.75,Eubalaena glacialis,mammal_marine,CR
+47_MV Jesula II,-80.0833333333333,25.75,Physeter macrocephalus,mammal_marine,VU
+47_MV Jesula II,-80.0833333333333,25.75,Physeter macrocephalus,mammal_marine,VU
+47_MV Jesula II,-80.0833333333333,25.75,Pseudorca crassidens,mammal_marine,NT
+47_MV Jesula II,-80.0833333333333,25.75,Pseudorca crassidens,mammal_marine,NT
+47_MV Jesula II,-80.0833333333333,25.75,Tursiops aduncus,mammal_marine,NT
+47_MV Jesula II,-80.0833333333333,25.75,Tursiops aduncus,mammal_marine,NT
+48_Refueling accident,-80.0833333333333,26.0833333333333,Eubalaena glacialis,mammal_marine,CR
+48_Refueling accident,-80.0833333333333,26.0833333333333,Eubalaena glacialis,mammal_marine,CR
+48_Refueling accident,-80.0833333333333,26.0833333333333,Pseudorca crassidens,mammal_marine,NT
+48_Refueling accident,-80.0833333333333,26.0833333333333,Pseudorca crassidens,mammal_marine,NT
+48_Refueling accident,-80.0833333333333,26.0833333333333,Tursiops aduncus,mammal_marine,NT
+48_Refueling accident,-80.0833333333333,26.0833333333333,Tursiops aduncus,mammal_marine,NT
+49_Vesta Bella barge,-60.9166666666667,10.25,Pseudorca crassidens,mammal_marine,NT
+49_Vesta Bella barge,-60.9166666666667,10.25,Pseudorca crassidens,mammal_marine,NT
+49_Vesta Bella barge,-60.9166666666667,10.25,Tursiops aduncus,mammal_marine,NT
+49_Vesta Bella barge,-60.9166666666667,10.25,Tursiops aduncus,mammal_marine,NT
+50_Vista Bella barge,-62.25,17.25,Physeter macrocephalus,mammal_marine,VU
+50_Vista Bella barge,-62.25,17.25,Physeter macrocephalus,mammal_marine,VU
+50_Vista Bella barge,-62.25,17.25,Pseudorca crassidens,mammal_marine,NT
+50_Vista Bella barge,-62.25,17.25,Pseudorca crassidens,mammal_marine,NT
+50_Vista Bella barge,-62.25,17.25,Tursiops aduncus,mammal_marine,NT
+50_Vista Bella barge,-62.25,17.25,Tursiops aduncus,mammal_marine,NT
+51_Alliance Well Head,-93.0833333333333,29.5833333333333,Eubalaena glacialis,mammal_marine,CR
+51_Alliance Well Head,-93.0833333333333,29.5833333333333,Eubalaena glacialis,mammal_marine,CR
+51_Alliance Well Head,-93.0833333333333,29.5833333333333,Physeter macrocephalus,mammal_marine,VU
+51_Alliance Well Head,-93.0833333333333,29.5833333333333,Physeter macrocephalus,mammal_marine,VU
+51_Alliance Well Head,-93.0833333333333,29.5833333333333,Pseudorca crassidens,mammal_marine,NT
+51_Alliance Well Head,-93.0833333333333,29.5833333333333,Pseudorca crassidens,mammal_marine,NT
+51_Alliance Well Head,-93.0833333333333,29.5833333333333,Tursiops aduncus,mammal_marine,NT
+51_Alliance Well Head,-93.0833333333333,29.5833333333333,Tursiops aduncus,mammal_marine,NT
+52_MV Golden Hill,-80.0833333333333,26.0833333333333,Eubalaena glacialis,mammal_marine,CR
+52_MV Golden Hill,-80.0833333333333,26.0833333333333,Eubalaena glacialis,mammal_marine,CR
+52_MV Golden Hill,-80.0833333333333,26.0833333333333,Pseudorca crassidens,mammal_marine,NT
+52_MV Golden Hill,-80.0833333333333,26.0833333333333,Pseudorca crassidens,mammal_marine,NT
+52_MV Golden Hill,-80.0833333333333,26.0833333333333,Tursiops aduncus,mammal_marine,NT
+52_MV Golden Hill,-80.0833333333333,26.0833333333333,Tursiops aduncus,mammal_marine,NT
+53_TV Yupex,-157.916666666667,21.25,Balaenoptera musculus,mammal_marine,EN
+53_TV Yupex,-157.916666666667,21.25,Balaenoptera musculus,mammal_marine,EN
+53_TV Yupex,-157.916666666667,21.25,Physeter macrocephalus,mammal_marine,VU
+53_TV Yupex,-157.916666666667,21.25,Physeter macrocephalus,mammal_marine,VU
+53_TV Yupex,-157.916666666667,21.25,Pseudorca crassidens,mammal_marine,NT
+53_TV Yupex,-157.916666666667,21.25,Pseudorca crassidens,mammal_marine,NT
+54_CONOCO Pipeline #2,-89.9166666666667,28.9166666666667,Eubalaena glacialis,mammal_marine,CR
+54_CONOCO Pipeline #2,-89.9166666666667,28.9166666666667,Eubalaena glacialis,mammal_marine,CR
+54_CONOCO Pipeline #2,-89.9166666666667,28.9166666666667,Physeter macrocephalus,mammal_marine,VU
+54_CONOCO Pipeline #2,-89.9166666666667,28.9166666666667,Physeter macrocephalus,mammal_marine,VU
+54_CONOCO Pipeline #2,-89.9166666666667,28.9166666666667,Pseudorca crassidens,mammal_marine,NT
+54_CONOCO Pipeline #2,-89.9166666666667,28.9166666666667,Pseudorca crassidens,mammal_marine,NT
+54_CONOCO Pipeline #2,-89.9166666666667,28.9166666666667,Tursiops aduncus,mammal_marine,NT
+54_CONOCO Pipeline #2,-89.9166666666667,28.9166666666667,Tursiops aduncus,mammal_marine,NT
+55_St Eustatius Refinery,-63.0833333333333,17.5833333333333,Balaenoptera musculus,mammal_marine,EN
+55_St Eustatius Refinery,-63.0833333333333,17.5833333333333,Balaenoptera musculus,mammal_marine,EN
+55_St Eustatius Refinery,-63.0833333333333,17.5833333333333,Physeter macrocephalus,mammal_marine,VU
+55_St Eustatius Refinery,-63.0833333333333,17.5833333333333,Physeter macrocephalus,mammal_marine,VU
+55_St Eustatius Refinery,-63.0833333333333,17.5833333333333,Pseudorca crassidens,mammal_marine,NT
+55_St Eustatius Refinery,-63.0833333333333,17.5833333333333,Pseudorca crassidens,mammal_marine,NT
+55_St Eustatius Refinery,-63.0833333333333,17.5833333333333,Tursiops aduncus,mammal_marine,NT
+55_St Eustatius Refinery,-63.0833333333333,17.5833333333333,Tursiops aduncus,mammal_marine,NT
+56_MV Durdy Dudley Pat,-91.5833333333333,29.5833333333333,Physeter macrocephalus,mammal_marine,VU
+56_MV Durdy Dudley Pat,-91.5833333333333,29.5833333333333,Physeter macrocephalus,mammal_marine,VU
+56_MV Durdy Dudley Pat,-91.5833333333333,29.5833333333333,Pseudorca crassidens,mammal_marine,NT
+56_MV Durdy Dudley Pat,-91.5833333333333,29.5833333333333,Pseudorca crassidens,mammal_marine,NT
+57_Diesel Truck,-67.25,18.0833333333333,Balaenoptera musculus,mammal_marine,EN
+57_Diesel Truck,-67.25,18.0833333333333,Balaenoptera musculus,mammal_marine,EN
+57_Diesel Truck,-67.25,18.0833333333333,Physeter macrocephalus,mammal_marine,VU
+57_Diesel Truck,-67.25,18.0833333333333,Physeter macrocephalus,mammal_marine,VU
+57_Diesel Truck,-67.25,18.0833333333333,Pseudorca crassidens,mammal_marine,NT
+57_Diesel Truck,-67.25,18.0833333333333,Pseudorca crassidens,mammal_marine,NT
+57_Diesel Truck,-67.25,18.0833333333333,Tursiops aduncus,mammal_marine,NT
+57_Diesel Truck,-67.25,18.0833333333333,Tursiops aduncus,mammal_marine,NT
+58_Balsa 37 Ocean 255 Bouchard Barge B-155,-82.75,27.5833333333333,Eubalaena glacialis,mammal_marine,CR
+58_Balsa 37 Ocean 255 Bouchard Barge B-155,-82.75,27.5833333333333,Eubalaena glacialis,mammal_marine,CR
+58_Balsa 37 Ocean 255 Bouchard Barge B-155,-82.75,27.5833333333333,Physeter macrocephalus,mammal_marine,VU
+58_Balsa 37 Ocean 255 Bouchard Barge B-155,-82.75,27.5833333333333,Physeter macrocephalus,mammal_marine,VU
+58_Balsa 37 Ocean 255 Bouchard Barge B-155,-82.75,27.5833333333333,Pseudorca crassidens,mammal_marine,NT
+58_Balsa 37 Ocean 255 Bouchard Barge B-155,-82.75,27.5833333333333,Pseudorca crassidens,mammal_marine,NT
+58_Balsa 37 Ocean 255 Bouchard Barge B-155,-82.75,27.5833333333333,Tursiops aduncus,mammal_marine,NT
+58_Balsa 37 Ocean 255 Bouchard Barge B-155,-82.75,27.5833333333333,Tursiops aduncus,mammal_marine,NT
+59_FV Jin Shiang Fa,-168.25,-14.5833333333333,NA,NA,NA
+60_Barge Morris J. Berman,-66.0833333333333,18.4166666666667,Balaenoptera musculus,mammal_marine,EN
+60_Barge Morris J. Berman,-66.0833333333333,18.4166666666667,Balaenoptera musculus,mammal_marine,EN
+60_Barge Morris J. Berman,-66.0833333333333,18.4166666666667,Pseudorca crassidens,mammal_marine,NT
+60_Barge Morris J. Berman,-66.0833333333333,18.4166666666667,Pseudorca crassidens,mammal_marine,NT
+60_Barge Morris J. Berman,-66.0833333333333,18.4166666666667,Tursiops aduncus,mammal_marine,NT
+60_Barge Morris J. Berman,-66.0833333333333,18.4166666666667,Tursiops aduncus,mammal_marine,NT
+61_FV Captain Shannon,-80.25,25.25,Eubalaena glacialis,mammal_marine,CR
+61_FV Captain Shannon,-80.25,25.25,Eubalaena glacialis,mammal_marine,CR
+61_FV Captain Shannon,-80.25,25.25,Physeter macrocephalus,mammal_marine,VU
+61_FV Captain Shannon,-80.25,25.25,Physeter macrocephalus,mammal_marine,VU
+61_FV Captain Shannon,-80.25,25.25,Pseudorca crassidens,mammal_marine,NT
+61_FV Captain Shannon,-80.25,25.25,Pseudorca crassidens,mammal_marine,NT
+61_FV Captain Shannon,-80.25,25.25,Tursiops aduncus,mammal_marine,NT
+61_FV Captain Shannon,-80.25,25.25,Tursiops aduncus,mammal_marine,NT
+62_MV Enif,-89.25,28.75,Eubalaena glacialis,mammal_marine,CR
+62_MV Enif,-89.25,28.75,Eubalaena glacialis,mammal_marine,CR
+62_MV Enif,-89.25,28.75,Physeter macrocephalus,mammal_marine,VU
+62_MV Enif,-89.25,28.75,Physeter macrocephalus,mammal_marine,VU
+62_MV Enif,-89.25,28.75,Pseudorca crassidens,mammal_marine,NT
+62_MV Enif,-89.25,28.75,Pseudorca crassidens,mammal_marine,NT
+62_MV Enif,-89.25,28.75,Tursiops aduncus,mammal_marine,NT
+62_MV Enif,-89.25,28.75,Tursiops aduncus,mammal_marine,NT
+63_MV Shamwari,-82.9166666666667,23.4166666666667,Physeter macrocephalus,mammal_marine,VU
+63_MV Shamwari,-82.9166666666667,23.4166666666667,Physeter macrocephalus,mammal_marine,VU
+63_MV Shamwari,-82.9166666666667,23.4166666666667,Pseudorca crassidens,mammal_marine,NT
+63_MV Shamwari,-82.9166666666667,23.4166666666667,Pseudorca crassidens,mammal_marine,NT
+64_Chevron Pipeline-3,-157.916666666667,21.4166666666667,Balaenoptera musculus,mammal_marine,EN
+64_Chevron Pipeline-3,-157.916666666667,21.4166666666667,Balaenoptera musculus,mammal_marine,EN
+64_Chevron Pipeline-3,-157.916666666667,21.4166666666667,Physeter macrocephalus,mammal_marine,VU
+64_Chevron Pipeline-3,-157.916666666667,21.4166666666667,Physeter macrocephalus,mammal_marine,VU
+64_Chevron Pipeline-3,-157.916666666667,21.4166666666667,Pseudorca crassidens,mammal_marine,NT
+64_Chevron Pipeline-3,-157.916666666667,21.4166666666667,Pseudorca crassidens,mammal_marine,NT
+65_Unspecified source,-66.0833333333333,18.4166666666667,Balaenoptera musculus,mammal_marine,EN
+65_Unspecified source,-66.0833333333333,18.4166666666667,Balaenoptera musculus,mammal_marine,EN
+65_Unspecified source,-66.0833333333333,18.4166666666667,Pseudorca crassidens,mammal_marine,NT
+65_Unspecified source,-66.0833333333333,18.4166666666667,Pseudorca crassidens,mammal_marine,NT
+65_Unspecified source,-66.0833333333333,18.4166666666667,Tursiops aduncus,mammal_marine,NT
+65_Unspecified source,-66.0833333333333,18.4166666666667,Tursiops aduncus,mammal_marine,NT
+66_Lake Barre Pipeline,-90.4166666666667,29.25,Eubalaena glacialis,mammal_marine,CR
+66_Lake Barre Pipeline,-90.4166666666667,29.25,Eubalaena glacialis,mammal_marine,CR
+66_Lake Barre Pipeline,-90.4166666666667,29.25,Physeter macrocephalus,mammal_marine,VU
+66_Lake Barre Pipeline,-90.4166666666667,29.25,Physeter macrocephalus,mammal_marine,VU
+66_Lake Barre Pipeline,-90.4166666666667,29.25,Pseudorca crassidens,mammal_marine,NT
+66_Lake Barre Pipeline,-90.4166666666667,29.25,Pseudorca crassidens,mammal_marine,NT
+67_FV Celia M,-89.9166666666667,29.25,Eubalaena glacialis,mammal_marine,CR
+67_FV Celia M,-89.9166666666667,29.25,Eubalaena glacialis,mammal_marine,CR
+67_FV Celia M,-89.9166666666667,29.25,Physeter macrocephalus,mammal_marine,VU
+67_FV Celia M,-89.9166666666667,29.25,Physeter macrocephalus,mammal_marine,VU
+67_FV Celia M,-89.9166666666667,29.25,Pseudorca crassidens,mammal_marine,NT
+67_FV Celia M,-89.9166666666667,29.25,Pseudorca crassidens,mammal_marine,NT
+67_FV Celia M,-89.9166666666667,29.25,Tursiops aduncus,mammal_marine,NT
+67_FV Celia M,-89.9166666666667,29.25,Tursiops aduncus,mammal_marine,NT
+68_MV Stone Fueler,-90.25,29.0833333333333,Eubalaena glacialis,mammal_marine,CR
+68_MV Stone Fueler,-90.25,29.0833333333333,Eubalaena glacialis,mammal_marine,CR
+68_MV Stone Fueler,-90.25,29.0833333333333,Physeter macrocephalus,mammal_marine,VU
+68_MV Stone Fueler,-90.25,29.0833333333333,Physeter macrocephalus,mammal_marine,VU
+68_MV Stone Fueler,-90.25,29.0833333333333,Pseudorca crassidens,mammal_marine,NT
+68_MV Stone Fueler,-90.25,29.0833333333333,Pseudorca crassidens,mammal_marine,NT
+68_MV Stone Fueler,-90.25,29.0833333333333,Tursiops aduncus,mammal_marine,NT
+68_MV Stone Fueler,-90.25,29.0833333333333,Tursiops aduncus,mammal_marine,NT
+69_FV Adriatic Sea,-170.583333333333,-12.75,NA,NA,NA
+70_Caribbean Gulf Facility Catano,-66.0833333333333,18.4166666666667,Balaenoptera musculus,mammal_marine,EN
+70_Caribbean Gulf Facility Catano,-66.0833333333333,18.4166666666667,Balaenoptera musculus,mammal_marine,EN
+70_Caribbean Gulf Facility Catano,-66.0833333333333,18.4166666666667,Pseudorca crassidens,mammal_marine,NT
+70_Caribbean Gulf Facility Catano,-66.0833333333333,18.4166666666667,Pseudorca crassidens,mammal_marine,NT
+70_Caribbean Gulf Facility Catano,-66.0833333333333,18.4166666666667,Tursiops aduncus,mammal_marine,NT
+70_Caribbean Gulf Facility Catano,-66.0833333333333,18.4166666666667,Tursiops aduncus,mammal_marine,NT
+71_Allision Drill Rig,-88.9166666666667,29.25,Eubalaena glacialis,mammal_marine,CR
+71_Allision Drill Rig,-88.9166666666667,29.25,Eubalaena glacialis,mammal_marine,CR
+71_Allision Drill Rig,-88.9166666666667,29.25,Physeter macrocephalus,mammal_marine,VU
+71_Allision Drill Rig,-88.9166666666667,29.25,Physeter macrocephalus,mammal_marine,VU
+71_Allision Drill Rig,-88.9166666666667,29.25,Pseudorca crassidens,mammal_marine,NT
+71_Allision Drill Rig,-88.9166666666667,29.25,Pseudorca crassidens,mammal_marine,NT
+71_Allision Drill Rig,-88.9166666666667,29.25,Tursiops aduncus,mammal_marine,NT
+71_Allision Drill Rig,-88.9166666666667,29.25,Tursiops aduncus,mammal_marine,NT
+72_Pipeline unspecified Hurricane Georges,-66.0833333333333,18.4166666666667,Balaenoptera musculus,mammal_marine,EN
+72_Pipeline unspecified Hurricane Georges,-66.0833333333333,18.4166666666667,Balaenoptera musculus,mammal_marine,EN
+72_Pipeline unspecified Hurricane Georges,-66.0833333333333,18.4166666666667,Pseudorca crassidens,mammal_marine,NT
+72_Pipeline unspecified Hurricane Georges,-66.0833333333333,18.4166666666667,Pseudorca crassidens,mammal_marine,NT
+72_Pipeline unspecified Hurricane Georges,-66.0833333333333,18.4166666666667,Tursiops aduncus,mammal_marine,NT
+72_Pipeline unspecified Hurricane Georges,-66.0833333333333,18.4166666666667,Tursiops aduncus,mammal_marine,NT
+73_Vessel unspecified Hurricane Georges,-71.75,25.75,Physeter macrocephalus,mammal_marine,VU
+73_Vessel unspecified Hurricane Georges,-71.75,25.75,Physeter macrocephalus,mammal_marine,VU
+74_BP/Chevron Pipeline,-88.9166666666667,28.9166666666667,Eubalaena glacialis,mammal_marine,CR
+74_BP/Chevron Pipeline,-88.9166666666667,28.9166666666667,Eubalaena glacialis,mammal_marine,CR
+74_BP/Chevron Pipeline,-88.9166666666667,28.9166666666667,Physeter macrocephalus,mammal_marine,VU
+74_BP/Chevron Pipeline,-88.9166666666667,28.9166666666667,Physeter macrocephalus,mammal_marine,VU
+74_BP/Chevron Pipeline,-88.9166666666667,28.9166666666667,Pseudorca crassidens,mammal_marine,NT
+74_BP/Chevron Pipeline,-88.9166666666667,28.9166666666667,Pseudorca crassidens,mammal_marine,NT
+74_BP/Chevron Pipeline,-88.9166666666667,28.9166666666667,Tursiops aduncus,mammal_marine,NT
+74_BP/Chevron Pipeline,-88.9166666666667,28.9166666666667,Tursiops aduncus,mammal_marine,NT
+75_FV Captain Justin,-82.75,27.5833333333333,Eubalaena glacialis,mammal_marine,CR
+75_FV Captain Justin,-82.75,27.5833333333333,Eubalaena glacialis,mammal_marine,CR
+75_FV Captain Justin,-82.75,27.5833333333333,Physeter macrocephalus,mammal_marine,VU
+75_FV Captain Justin,-82.75,27.5833333333333,Physeter macrocephalus,mammal_marine,VU
+75_FV Captain Justin,-82.75,27.5833333333333,Pseudorca crassidens,mammal_marine,NT
+75_FV Captain Justin,-82.75,27.5833333333333,Pseudorca crassidens,mammal_marine,NT
+75_FV Captain Justin,-82.75,27.5833333333333,Tursiops aduncus,mammal_marine,NT
+75_FV Captain Justin,-82.75,27.5833333333333,Tursiops aduncus,mammal_marine,NT
+76_JPnm5 Fuel Tank-3,-65.5833333333333,18.25,Balaenoptera musculus,mammal_marine,EN
+76_JPnm5 Fuel Tank-3,-65.5833333333333,18.25,Balaenoptera musculus,mammal_marine,EN
+76_JPnm5 Fuel Tank-3,-65.5833333333333,18.25,Physeter macrocephalus,mammal_marine,VU
+76_JPnm5 Fuel Tank-3,-65.5833333333333,18.25,Physeter macrocephalus,mammal_marine,VU
+76_JPnm5 Fuel Tank-3,-65.5833333333333,18.25,Pseudorca crassidens,mammal_marine,NT
+76_JPnm5 Fuel Tank-3,-65.5833333333333,18.25,Pseudorca crassidens,mammal_marine,NT
+76_JPnm5 Fuel Tank-3,-65.5833333333333,18.25,Tursiops aduncus,mammal_marine,NT
+76_JPnm5 Fuel Tank-3,-65.5833333333333,18.25,Tursiops aduncus,mammal_marine,NT
+77_Shell Pipeline,-91.0833333333333,28.4166666666667,Eubalaena glacialis,mammal_marine,CR
+77_Shell Pipeline,-91.0833333333333,28.4166666666667,Eubalaena glacialis,mammal_marine,CR
+77_Shell Pipeline,-91.0833333333333,28.4166666666667,Physeter macrocephalus,mammal_marine,VU
+77_Shell Pipeline,-91.0833333333333,28.4166666666667,Physeter macrocephalus,mammal_marine,VU
+77_Shell Pipeline,-91.0833333333333,28.4166666666667,Pseudorca crassidens,mammal_marine,NT
+77_Shell Pipeline,-91.0833333333333,28.4166666666667,Pseudorca crassidens,mammal_marine,NT
+78_Four Bayous Pass,-89.9166666666667,29.25,Eubalaena glacialis,mammal_marine,CR
+78_Four Bayous Pass,-89.9166666666667,29.25,Eubalaena glacialis,mammal_marine,CR
+78_Four Bayous Pass,-89.9166666666667,29.25,Physeter macrocephalus,mammal_marine,VU
+78_Four Bayous Pass,-89.9166666666667,29.25,Physeter macrocephalus,mammal_marine,VU
+78_Four Bayous Pass,-89.9166666666667,29.25,Pseudorca crassidens,mammal_marine,NT
+78_Four Bayous Pass,-89.9166666666667,29.25,Pseudorca crassidens,mammal_marine,NT
+78_Four Bayous Pass,-89.9166666666667,29.25,Tursiops aduncus,mammal_marine,NT
+78_Four Bayous Pass,-89.9166666666667,29.25,Tursiops aduncus,mammal_marine,NT
+79_Hollywood Barge,-90.9166666666667,28.75,Eubalaena glacialis,mammal_marine,CR
+79_Hollywood Barge,-90.9166666666667,28.75,Eubalaena glacialis,mammal_marine,CR
+79_Hollywood Barge,-90.9166666666667,28.75,Physeter macrocephalus,mammal_marine,VU
+79_Hollywood Barge,-90.9166666666667,28.75,Physeter macrocephalus,mammal_marine,VU
+79_Hollywood Barge,-90.9166666666667,28.75,Pseudorca crassidens,mammal_marine,NT
+79_Hollywood Barge,-90.9166666666667,28.75,Pseudorca crassidens,mammal_marine,NT
+79_Hollywood Barge,-90.9166666666667,28.75,Tursiops aduncus,mammal_marine,NT
+79_Hollywood Barge,-90.9166666666667,28.75,Tursiops aduncus,mammal_marine,NT
+80_Petrobras pipeline,-43.0833333333333,-22.75,Pontoporia blainvillei,mammal_marine,VU
+80_Petrobras pipeline,-43.0833333333333,-22.75,Pontoporia blainvillei,mammal_marine,VU
+80_Petrobras pipeline,-43.0833333333333,-22.75,Pseudorca crassidens,mammal_marine,NT
+80_Petrobras pipeline,-43.0833333333333,-22.75,Pseudorca crassidens,mammal_marine,NT
+80_Petrobras pipeline,-43.0833333333333,-22.75,Tursiops aduncus,mammal_marine,NT
+80_Petrobras pipeline,-43.0833333333333,-22.75,Tursiops aduncus,mammal_marine,NT
+81_FV Joe G Jr,-90.4166666666667,29.0833333333333,Eubalaena glacialis,mammal_marine,CR
+81_FV Joe G Jr,-90.4166666666667,29.0833333333333,Eubalaena glacialis,mammal_marine,CR
+81_FV Joe G Jr,-90.4166666666667,29.0833333333333,Physeter macrocephalus,mammal_marine,VU
+81_FV Joe G Jr,-90.4166666666667,29.0833333333333,Physeter macrocephalus,mammal_marine,VU
+81_FV Joe G Jr,-90.4166666666667,29.0833333333333,Pseudorca crassidens,mammal_marine,NT
+81_FV Joe G Jr,-90.4166666666667,29.0833333333333,Pseudorca crassidens,mammal_marine,NT
+81_FV Joe G Jr,-90.4166666666667,29.0833333333333,Tursiops aduncus,mammal_marine,NT
+81_FV Joe G Jr,-90.4166666666667,29.0833333333333,Tursiops aduncus,mammal_marine,NT
+82_Jessica,-89.5833333333333,-0.916666666666657,Balaenoptera musculus,mammal_marine,EN
+82_Jessica,-89.5833333333333,-0.916666666666657,Balaenoptera musculus,mammal_marine,EN
+82_Jessica,-89.5833333333333,-0.916666666666657,Physeter macrocephalus,mammal_marine,VU
+82_Jessica,-89.5833333333333,-0.916666666666657,Physeter macrocephalus,mammal_marine,VU
+82_Jessica,-89.5833333333333,-0.916666666666657,Pseudorca crassidens,mammal_marine,NT
+82_Jessica,-89.5833333333333,-0.916666666666657,Pseudorca crassidens,mammal_marine,NT
+83_OSV Hos Deepwater,-90.25,28.9166666666667,Eubalaena glacialis,mammal_marine,CR
+83_OSV Hos Deepwater,-90.25,28.9166666666667,Eubalaena glacialis,mammal_marine,CR
+83_OSV Hos Deepwater,-90.25,28.9166666666667,Physeter macrocephalus,mammal_marine,VU
+83_OSV Hos Deepwater,-90.25,28.9166666666667,Physeter macrocephalus,mammal_marine,VU
+83_OSV Hos Deepwater,-90.25,28.9166666666667,Pseudorca crassidens,mammal_marine,NT
+83_OSV Hos Deepwater,-90.25,28.9166666666667,Pseudorca crassidens,mammal_marine,NT
+83_OSV Hos Deepwater,-90.25,28.9166666666667,Tursiops aduncus,mammal_marine,NT
+83_OSV Hos Deepwater,-90.25,28.9166666666667,Tursiops aduncus,mammal_marine,NT
+84_Timbalier Platform,-90.25,29.0833333333333,Eubalaena glacialis,mammal_marine,CR
+84_Timbalier Platform,-90.25,29.0833333333333,Eubalaena glacialis,mammal_marine,CR
+84_Timbalier Platform,-90.25,29.0833333333333,Physeter macrocephalus,mammal_marine,VU
+84_Timbalier Platform,-90.25,29.0833333333333,Physeter macrocephalus,mammal_marine,VU
+84_Timbalier Platform,-90.25,29.0833333333333,Pseudorca crassidens,mammal_marine,NT
+84_Timbalier Platform,-90.25,29.0833333333333,Pseudorca crassidens,mammal_marine,NT
+84_Timbalier Platform,-90.25,29.0833333333333,Tursiops aduncus,mammal_marine,NT
+84_Timbalier Platform,-90.25,29.0833333333333,Tursiops aduncus,mammal_marine,NT
+85_Pipeline-1,-90.5833333333333,29.0833333333333,Eubalaena glacialis,mammal_marine,CR
+85_Pipeline-1,-90.5833333333333,29.0833333333333,Eubalaena glacialis,mammal_marine,CR
+85_Pipeline-1,-90.5833333333333,29.0833333333333,Physeter macrocephalus,mammal_marine,VU
+85_Pipeline-1,-90.5833333333333,29.0833333333333,Physeter macrocephalus,mammal_marine,VU
+85_Pipeline-1,-90.5833333333333,29.0833333333333,Pseudorca crassidens,mammal_marine,NT
+85_Pipeline-1,-90.5833333333333,29.0833333333333,Pseudorca crassidens,mammal_marine,NT
+85_Pipeline-1,-90.5833333333333,29.0833333333333,Tursiops aduncus,mammal_marine,NT
+85_Pipeline-1,-90.5833333333333,29.0833333333333,Tursiops aduncus,mammal_marine,NT
+86_MV Genmar Alexandra,-89.5833333333333,29.25,Eubalaena glacialis,mammal_marine,CR
+86_MV Genmar Alexandra,-89.5833333333333,29.25,Eubalaena glacialis,mammal_marine,CR
+86_MV Genmar Alexandra,-89.5833333333333,29.25,Physeter macrocephalus,mammal_marine,VU
+86_MV Genmar Alexandra,-89.5833333333333,29.25,Physeter macrocephalus,mammal_marine,VU
+86_MV Genmar Alexandra,-89.5833333333333,29.25,Pseudorca crassidens,mammal_marine,NT
+86_MV Genmar Alexandra,-89.5833333333333,29.25,Pseudorca crassidens,mammal_marine,NT
+86_MV Genmar Alexandra,-89.5833333333333,29.25,Tursiops aduncus,mammal_marine,NT
+86_MV Genmar Alexandra,-89.5833333333333,29.25,Tursiops aduncus,mammal_marine,NT
+87_CV Alchiba,-87.0833333333333,30.4166666666667,Eubalaena glacialis,mammal_marine,CR
+87_CV Alchiba,-87.0833333333333,30.4166666666667,Eubalaena glacialis,mammal_marine,CR
+87_CV Alchiba,-87.0833333333333,30.4166666666667,Physeter macrocephalus,mammal_marine,VU
+87_CV Alchiba,-87.0833333333333,30.4166666666667,Physeter macrocephalus,mammal_marine,VU
+87_CV Alchiba,-87.0833333333333,30.4166666666667,Pseudorca crassidens,mammal_marine,NT
+87_CV Alchiba,-87.0833333333333,30.4166666666667,Pseudorca crassidens,mammal_marine,NT
+87_CV Alchiba,-87.0833333333333,30.4166666666667,Tursiops aduncus,mammal_marine,NT
+87_CV Alchiba,-87.0833333333333,30.4166666666667,Tursiops aduncus,mammal_marine,NT
+88_Silhouette,-80.0833333333333,26.0833333333333,Eubalaena glacialis,mammal_marine,CR
+88_Silhouette,-80.0833333333333,26.0833333333333,Eubalaena glacialis,mammal_marine,CR
+88_Silhouette,-80.0833333333333,26.0833333333333,Pseudorca crassidens,mammal_marine,NT
+88_Silhouette,-80.0833333333333,26.0833333333333,Pseudorca crassidens,mammal_marine,NT
+88_Silhouette,-80.0833333333333,26.0833333333333,Tursiops aduncus,mammal_marine,NT
+88_Silhouette,-80.0833333333333,26.0833333333333,Tursiops aduncus,mammal_marine,NT
+89_FV Jami Lynn Burned and Sank,-83.25,27.5833333333333,Eubalaena glacialis,mammal_marine,CR
+89_FV Jami Lynn Burned and Sank,-83.25,27.5833333333333,Eubalaena glacialis,mammal_marine,CR
+89_FV Jami Lynn Burned and Sank,-83.25,27.5833333333333,Physeter macrocephalus,mammal_marine,VU
+89_FV Jami Lynn Burned and Sank,-83.25,27.5833333333333,Physeter macrocephalus,mammal_marine,VU
+89_FV Jami Lynn Burned and Sank,-83.25,27.5833333333333,Pseudorca crassidens,mammal_marine,NT
+89_FV Jami Lynn Burned and Sank,-83.25,27.5833333333333,Pseudorca crassidens,mammal_marine,NT
+89_FV Jami Lynn Burned and Sank,-83.25,27.5833333333333,Tursiops aduncus,mammal_marine,NT
+89_FV Jami Lynn Burned and Sank,-83.25,27.5833333333333,Tursiops aduncus,mammal_marine,NT
+90_Spill unspecified,-89.25,29.0833333333333,Physeter macrocephalus,mammal_marine,VU
+90_Spill unspecified,-89.25,29.0833333333333,Physeter macrocephalus,mammal_marine,VU
+90_Spill unspecified,-89.25,29.0833333333333,Pseudorca crassidens,mammal_marine,NT
+90_Spill unspecified,-89.25,29.0833333333333,Pseudorca crassidens,mammal_marine,NT
+91_Platform unspecified,-90.4166666666667,29.25,Eubalaena glacialis,mammal_marine,CR
+91_Platform unspecified,-90.4166666666667,29.25,Eubalaena glacialis,mammal_marine,CR
+91_Platform unspecified,-90.4166666666667,29.25,Physeter macrocephalus,mammal_marine,VU
+91_Platform unspecified,-90.4166666666667,29.25,Physeter macrocephalus,mammal_marine,VU
+91_Platform unspecified,-90.4166666666667,29.25,Pseudorca crassidens,mammal_marine,NT
+91_Platform unspecified,-90.4166666666667,29.25,Pseudorca crassidens,mammal_marine,NT
+92_Pipeline unspecified,-89.9166666666667,29.25,Eubalaena glacialis,mammal_marine,CR
+92_Pipeline unspecified,-89.9166666666667,29.25,Eubalaena glacialis,mammal_marine,CR
+92_Pipeline unspecified,-89.9166666666667,29.25,Physeter macrocephalus,mammal_marine,VU
+92_Pipeline unspecified,-89.9166666666667,29.25,Physeter macrocephalus,mammal_marine,VU
+92_Pipeline unspecified,-89.9166666666667,29.25,Pseudorca crassidens,mammal_marine,NT
+92_Pipeline unspecified,-89.9166666666667,29.25,Pseudorca crassidens,mammal_marine,NT
+92_Pipeline unspecified,-89.9166666666667,29.25,Tursiops aduncus,mammal_marine,NT
+92_Pipeline unspecified,-89.9166666666667,29.25,Tursiops aduncus,mammal_marine,NT
+93_OSV Lee III,-89.25,29.0833333333333,Physeter macrocephalus,mammal_marine,VU
+93_OSV Lee III,-89.25,29.0833333333333,Physeter macrocephalus,mammal_marine,VU
+93_OSV Lee III,-89.25,29.0833333333333,Pseudorca crassidens,mammal_marine,NT
+93_OSV Lee III,-89.25,29.0833333333333,Pseudorca crassidens,mammal_marine,NT
+94_Pipeline Mississippi Block 69,-89.0833333333333,29.25,Eubalaena glacialis,mammal_marine,CR
+94_Pipeline Mississippi Block 69,-89.0833333333333,29.25,Eubalaena glacialis,mammal_marine,CR
+94_Pipeline Mississippi Block 69,-89.0833333333333,29.25,Physeter macrocephalus,mammal_marine,VU
+94_Pipeline Mississippi Block 69,-89.0833333333333,29.25,Physeter macrocephalus,mammal_marine,VU
+94_Pipeline Mississippi Block 69,-89.0833333333333,29.25,Pseudorca crassidens,mammal_marine,NT
+94_Pipeline Mississippi Block 69,-89.0833333333333,29.25,Pseudorca crassidens,mammal_marine,NT
+94_Pipeline Mississippi Block 69,-89.0833333333333,29.25,Tursiops aduncus,mammal_marine,NT
+94_Pipeline Mississippi Block 69,-89.0833333333333,29.25,Tursiops aduncus,mammal_marine,NT
+95_Vicuna,-48.4166666666667,-25.4166666666667,Phocoena spinipinnis,mammal_marine,NT
+95_Vicuna,-48.4166666666667,-25.4166666666667,Phocoena spinipinnis,mammal_marine,NT
+95_Vicuna,-48.4166666666667,-25.4166666666667,Pontoporia blainvillei,mammal_marine,VU
+95_Vicuna,-48.4166666666667,-25.4166666666667,Pontoporia blainvillei,mammal_marine,VU
+95_Vicuna,-48.4166666666667,-25.4166666666667,Pseudorca crassidens,mammal_marine,NT
+95_Vicuna,-48.4166666666667,-25.4166666666667,Pseudorca crassidens,mammal_marine,NT
+95_Vicuna,-48.4166666666667,-25.4166666666667,Tursiops aduncus,mammal_marine,NT
+95_Vicuna,-48.4166666666667,-25.4166666666667,Tursiops aduncus,mammal_marine,NT
+96_FV Miss Dottie,-80.75,24.5833333333333,Pseudorca crassidens,mammal_marine,NT
+96_FV Miss Dottie,-80.75,24.5833333333333,Pseudorca crassidens,mammal_marine,NT
+96_FV Miss Dottie,-80.75,24.5833333333333,Tursiops aduncus,mammal_marine,NT
+96_FV Miss Dottie,-80.75,24.5833333333333,Tursiops aduncus,mammal_marine,NT
+97_Commonwealth Oil Refining Company,-66.75,17.9166666666667,Balaenoptera musculus,mammal_marine,EN
+97_Commonwealth Oil Refining Company,-66.75,17.9166666666667,Balaenoptera musculus,mammal_marine,EN
+97_Commonwealth Oil Refining Company,-66.75,17.9166666666667,Physeter macrocephalus,mammal_marine,VU
+97_Commonwealth Oil Refining Company,-66.75,17.9166666666667,Physeter macrocephalus,mammal_marine,VU
+97_Commonwealth Oil Refining Company,-66.75,17.9166666666667,Pseudorca crassidens,mammal_marine,NT
+97_Commonwealth Oil Refining Company,-66.75,17.9166666666667,Pseudorca crassidens,mammal_marine,NT
+97_Commonwealth Oil Refining Company,-66.75,17.9166666666667,Tursiops aduncus,mammal_marine,NT
+97_Commonwealth Oil Refining Company,-66.75,17.9166666666667,Tursiops aduncus,mammal_marine,NT
+98_Grand Isle Pipeline,-89.9166666666667,29.25,Eubalaena glacialis,mammal_marine,CR
+98_Grand Isle Pipeline,-89.9166666666667,29.25,Eubalaena glacialis,mammal_marine,CR
+98_Grand Isle Pipeline,-89.9166666666667,29.25,Physeter macrocephalus,mammal_marine,VU
+98_Grand Isle Pipeline,-89.9166666666667,29.25,Physeter macrocephalus,mammal_marine,VU
+98_Grand Isle Pipeline,-89.9166666666667,29.25,Pseudorca crassidens,mammal_marine,NT
+98_Grand Isle Pipeline,-89.9166666666667,29.25,Pseudorca crassidens,mammal_marine,NT
+98_Grand Isle Pipeline,-89.9166666666667,29.25,Tursiops aduncus,mammal_marine,NT
+98_Grand Isle Pipeline,-89.9166666666667,29.25,Tursiops aduncus,mammal_marine,NT
+99_Hurricane Katrina,-89.4166666666667,29.25,Eubalaena glacialis,mammal_marine,CR
+99_Hurricane Katrina,-89.4166666666667,29.25,Eubalaena glacialis,mammal_marine,CR
+99_Hurricane Katrina,-89.4166666666667,29.25,Physeter macrocephalus,mammal_marine,VU
+99_Hurricane Katrina,-89.4166666666667,29.25,Physeter macrocephalus,mammal_marine,VU
+99_Hurricane Katrina,-89.4166666666667,29.25,Pseudorca crassidens,mammal_marine,NT
+99_Hurricane Katrina,-89.4166666666667,29.25,Pseudorca crassidens,mammal_marine,NT
+100_FV Captain Chance,-82.9166666666667,28.0833333333333,Eubalaena glacialis,mammal_marine,CR
+100_FV Captain Chance,-82.9166666666667,28.0833333333333,Eubalaena glacialis,mammal_marine,CR
+100_FV Captain Chance,-82.9166666666667,28.0833333333333,Physeter macrocephalus,mammal_marine,VU
+100_FV Captain Chance,-82.9166666666667,28.0833333333333,Physeter macrocephalus,mammal_marine,VU
+100_FV Captain Chance,-82.9166666666667,28.0833333333333,Pseudorca crassidens,mammal_marine,NT
+100_FV Captain Chance,-82.9166666666667,28.0833333333333,Pseudorca crassidens,mammal_marine,NT
+100_FV Captain Chance,-82.9166666666667,28.0833333333333,Tursiops aduncus,mammal_marine,NT
+100_FV Captain Chance,-82.9166666666667,28.0833333333333,Tursiops aduncus,mammal_marine,NT
+101_OSV Gulf Dream,-89.0833333333333,29.4166666666667,Eubalaena glacialis,mammal_marine,CR
+101_OSV Gulf Dream,-89.0833333333333,29.4166666666667,Eubalaena glacialis,mammal_marine,CR
+101_OSV Gulf Dream,-89.0833333333333,29.4166666666667,Physeter macrocephalus,mammal_marine,VU
+101_OSV Gulf Dream,-89.0833333333333,29.4166666666667,Physeter macrocephalus,mammal_marine,VU
+101_OSV Gulf Dream,-89.0833333333333,29.4166666666667,Pseudorca crassidens,mammal_marine,NT
+101_OSV Gulf Dream,-89.0833333333333,29.4166666666667,Pseudorca crassidens,mammal_marine,NT
+101_OSV Gulf Dream,-89.0833333333333,29.4166666666667,Tursiops aduncus,mammal_marine,NT
+101_OSV Gulf Dream,-89.0833333333333,29.4166666666667,Tursiops aduncus,mammal_marine,NT
+102_Port Manatee Cruise Terminal,-82.5833333333333,27.5833333333333,Eubalaena glacialis,mammal_marine,CR
+102_Port Manatee Cruise Terminal,-82.5833333333333,27.5833333333333,Eubalaena glacialis,mammal_marine,CR
+102_Port Manatee Cruise Terminal,-82.5833333333333,27.5833333333333,Physeter macrocephalus,mammal_marine,VU
+102_Port Manatee Cruise Terminal,-82.5833333333333,27.5833333333333,Physeter macrocephalus,mammal_marine,VU
+102_Port Manatee Cruise Terminal,-82.5833333333333,27.5833333333333,Pseudorca crassidens,mammal_marine,NT
+102_Port Manatee Cruise Terminal,-82.5833333333333,27.5833333333333,Pseudorca crassidens,mammal_marine,NT
+102_Port Manatee Cruise Terminal,-82.5833333333333,27.5833333333333,Tursiops aduncus,mammal_marine,NT
+102_Port Manatee Cruise Terminal,-82.5833333333333,27.5833333333333,Tursiops aduncus,mammal_marine,NT
+103_MV Vagabond,-64.4166666666667,18.4166666666667,Balaenoptera musculus,mammal_marine,EN
+103_MV Vagabond,-64.4166666666667,18.4166666666667,Balaenoptera musculus,mammal_marine,EN
+103_MV Vagabond,-64.4166666666667,18.4166666666667,Physeter macrocephalus,mammal_marine,VU
+103_MV Vagabond,-64.4166666666667,18.4166666666667,Physeter macrocephalus,mammal_marine,VU
+103_MV Vagabond,-64.4166666666667,18.4166666666667,Pseudorca crassidens,mammal_marine,NT
+103_MV Vagabond,-64.4166666666667,18.4166666666667,Pseudorca crassidens,mammal_marine,NT
+103_MV Vagabond,-64.4166666666667,18.4166666666667,Tursiops aduncus,mammal_marine,NT
+103_MV Vagabond,-64.4166666666667,18.4166666666667,Tursiops aduncus,mammal_marine,NT
+104_Grand Bay Pipeline,-89.25,29.25,Eubalaena glacialis,mammal_marine,CR
+104_Grand Bay Pipeline,-89.25,29.25,Eubalaena glacialis,mammal_marine,CR
+104_Grand Bay Pipeline,-89.25,29.25,Physeter macrocephalus,mammal_marine,VU
+104_Grand Bay Pipeline,-89.25,29.25,Physeter macrocephalus,mammal_marine,VU
+104_Grand Bay Pipeline,-89.25,29.25,Pseudorca crassidens,mammal_marine,NT
+104_Grand Bay Pipeline,-89.25,29.25,Pseudorca crassidens,mammal_marine,NT
+105_Tug Bret Hunter,-88.9166666666667,29.75,Eubalaena glacialis,mammal_marine,CR
+105_Tug Bret Hunter,-88.9166666666667,29.75,Eubalaena glacialis,mammal_marine,CR
+105_Tug Bret Hunter,-88.9166666666667,29.75,Physeter macrocephalus,mammal_marine,VU
+105_Tug Bret Hunter,-88.9166666666667,29.75,Physeter macrocephalus,mammal_marine,VU
+105_Tug Bret Hunter,-88.9166666666667,29.75,Pseudorca crassidens,mammal_marine,NT
+105_Tug Bret Hunter,-88.9166666666667,29.75,Pseudorca crassidens,mammal_marine,NT
+105_Tug Bret Hunter,-88.9166666666667,29.75,Tursiops aduncus,mammal_marine,NT
+105_Tug Bret Hunter,-88.9166666666667,29.75,Tursiops aduncus,mammal_marine,NT
+106_MV Supe,-80.75,-3.58333333333333,Balaenoptera musculus,mammal_marine,EN
+106_MV Supe,-80.75,-3.58333333333333,Balaenoptera musculus,mammal_marine,EN
+106_MV Supe,-80.75,-3.58333333333333,Physeter macrocephalus,mammal_marine,VU
+106_MV Supe,-80.75,-3.58333333333333,Physeter macrocephalus,mammal_marine,VU
+106_MV Supe,-80.75,-3.58333333333333,Pseudorca crassidens,mammal_marine,NT
+106_MV Supe,-80.75,-3.58333333333333,Pseudorca crassidens,mammal_marine,NT
+107_Barge DM932,-90.0833333333333,30.0833333333333,Physeter macrocephalus,mammal_marine,VU
+107_Barge DM932,-90.0833333333333,30.0833333333333,Physeter macrocephalus,mammal_marine,VU
+107_Barge DM932,-90.0833333333333,30.0833333333333,Pseudorca crassidens,mammal_marine,NT
+107_Barge DM932,-90.0833333333333,30.0833333333333,Pseudorca crassidens,mammal_marine,NT
+108_Tank Battery Hurricane Gustav,-89.4166666666667,29.75,Eubalaena glacialis,mammal_marine,CR
+108_Tank Battery Hurricane Gustav,-89.4166666666667,29.75,Eubalaena glacialis,mammal_marine,CR
+108_Tank Battery Hurricane Gustav,-89.4166666666667,29.75,Physeter macrocephalus,mammal_marine,VU
+108_Tank Battery Hurricane Gustav,-89.4166666666667,29.75,Physeter macrocephalus,mammal_marine,VU
+108_Tank Battery Hurricane Gustav,-89.4166666666667,29.75,Pseudorca crassidens,mammal_marine,NT
+108_Tank Battery Hurricane Gustav,-89.4166666666667,29.75,Pseudorca crassidens,mammal_marine,NT
+109_Army Terminal Pipeline,-66.0833333333333,18.4166666666667,Balaenoptera musculus,mammal_marine,EN
+109_Army Terminal Pipeline,-66.0833333333333,18.4166666666667,Balaenoptera musculus,mammal_marine,EN
+109_Army Terminal Pipeline,-66.0833333333333,18.4166666666667,Pseudorca crassidens,mammal_marine,NT
+109_Army Terminal Pipeline,-66.0833333333333,18.4166666666667,Pseudorca crassidens,mammal_marine,NT
+109_Army Terminal Pipeline,-66.0833333333333,18.4166666666667,Tursiops aduncus,mammal_marine,NT
+109_Army Terminal Pipeline,-66.0833333333333,18.4166666666667,Tursiops aduncus,mammal_marine,NT
+110_Wellhead Failure,-90.0833333333333,29.5833333333333,Physeter macrocephalus,mammal_marine,VU
+110_Wellhead Failure,-90.0833333333333,29.5833333333333,Physeter macrocephalus,mammal_marine,VU
+110_Wellhead Failure,-90.0833333333333,29.5833333333333,Pseudorca crassidens,mammal_marine,NT
+110_Wellhead Failure,-90.0833333333333,29.5833333333333,Pseudorca crassidens,mammal_marine,NT
+111_PB Platform Pipeline,-88.5833333333333,28.25,Physeter macrocephalus,mammal_marine,VU
+111_PB Platform Pipeline,-88.5833333333333,28.25,Physeter macrocephalus,mammal_marine,VU
+111_PB Platform Pipeline,-88.5833333333333,28.25,Pseudorca crassidens,mammal_marine,NT
+111_PB Platform Pipeline,-88.5833333333333,28.25,Pseudorca crassidens,mammal_marine,NT
+112_FV Maranatha Tug Mary L Collision,-82.5833333333333,27.5833333333333,Eubalaena glacialis,mammal_marine,CR
+112_FV Maranatha Tug Mary L Collision,-82.5833333333333,27.5833333333333,Eubalaena glacialis,mammal_marine,CR
+112_FV Maranatha Tug Mary L Collision,-82.5833333333333,27.5833333333333,Physeter macrocephalus,mammal_marine,VU
+112_FV Maranatha Tug Mary L Collision,-82.5833333333333,27.5833333333333,Physeter macrocephalus,mammal_marine,VU
+112_FV Maranatha Tug Mary L Collision,-82.5833333333333,27.5833333333333,Pseudorca crassidens,mammal_marine,NT
+112_FV Maranatha Tug Mary L Collision,-82.5833333333333,27.5833333333333,Pseudorca crassidens,mammal_marine,NT
+112_FV Maranatha Tug Mary L Collision,-82.5833333333333,27.5833333333333,Tursiops aduncus,mammal_marine,NT
+112_FV Maranatha Tug Mary L Collision,-82.5833333333333,27.5833333333333,Tursiops aduncus,mammal_marine,NT
+113_MV Dunlin Arrow,-69.75,20.5833333333333,Balaenoptera musculus,mammal_marine,EN
+113_MV Dunlin Arrow,-69.75,20.5833333333333,Balaenoptera musculus,mammal_marine,EN
+113_MV Dunlin Arrow,-69.75,20.5833333333333,Physeter macrocephalus,mammal_marine,VU
+113_MV Dunlin Arrow,-69.75,20.5833333333333,Physeter macrocephalus,mammal_marine,VU
+113_MV Dunlin Arrow,-69.75,20.5833333333333,Pseudorca crassidens,mammal_marine,NT
+113_MV Dunlin Arrow,-69.75,20.5833333333333,Pseudorca crassidens,mammal_marine,NT
+113_MV Dunlin Arrow,-69.75,20.5833333333333,Tursiops aduncus,mammal_marine,NT
+113_MV Dunlin Arrow,-69.75,20.5833333333333,Tursiops aduncus,mammal_marine,NT
+114_Diversified Environmental Services,-82.4166666666667,27.9166666666667,Physeter macrocephalus,mammal_marine,VU
+114_Diversified Environmental Services,-82.4166666666667,27.9166666666667,Physeter macrocephalus,mammal_marine,VU
+114_Diversified Environmental Services,-82.4166666666667,27.9166666666667,Pseudorca crassidens,mammal_marine,NT
+114_Diversified Environmental Services,-82.4166666666667,27.9166666666667,Pseudorca crassidens,mammal_marine,NT
+114_Diversified Environmental Services,-82.4166666666667,27.9166666666667,Tursiops aduncus,mammal_marine,NT
+114_Diversified Environmental Services,-82.4166666666667,27.9166666666667,Tursiops aduncus,mammal_marine,NT
+115_Pipeline-2,-90.9166666666667,28.75,Eubalaena glacialis,mammal_marine,CR
+115_Pipeline-2,-90.9166666666667,28.75,Eubalaena glacialis,mammal_marine,CR
+115_Pipeline-2,-90.9166666666667,28.75,Physeter macrocephalus,mammal_marine,VU
+115_Pipeline-2,-90.9166666666667,28.75,Physeter macrocephalus,mammal_marine,VU
+115_Pipeline-2,-90.9166666666667,28.75,Pseudorca crassidens,mammal_marine,NT
+115_Pipeline-2,-90.9166666666667,28.75,Pseudorca crassidens,mammal_marine,NT
+115_Pipeline-2,-90.9166666666667,28.75,Tursiops aduncus,mammal_marine,NT
+115_Pipeline-2,-90.9166666666667,28.75,Tursiops aduncus,mammal_marine,NT
+116_Helicopter release,-157.083333333333,21.0833333333333,Balaenoptera musculus,mammal_marine,EN
+116_Helicopter release,-157.083333333333,21.0833333333333,Balaenoptera musculus,mammal_marine,EN
+116_Helicopter release,-157.083333333333,21.0833333333333,Physeter macrocephalus,mammal_marine,VU
+116_Helicopter release,-157.083333333333,21.0833333333333,Physeter macrocephalus,mammal_marine,VU
+116_Helicopter release,-157.083333333333,21.0833333333333,Pseudorca crassidens,mammal_marine,NT
+116_Helicopter release,-157.083333333333,21.0833333333333,Pseudorca crassidens,mammal_marine,NT
+117_OSV Southern Dancer,-90.25,29.0833333333333,Eubalaena glacialis,mammal_marine,CR
+117_OSV Southern Dancer,-90.25,29.0833333333333,Eubalaena glacialis,mammal_marine,CR
+117_OSV Southern Dancer,-90.25,29.0833333333333,Physeter macrocephalus,mammal_marine,VU
+117_OSV Southern Dancer,-90.25,29.0833333333333,Physeter macrocephalus,mammal_marine,VU
+117_OSV Southern Dancer,-90.25,29.0833333333333,Pseudorca crassidens,mammal_marine,NT
+117_OSV Southern Dancer,-90.25,29.0833333333333,Pseudorca crassidens,mammal_marine,NT
+117_OSV Southern Dancer,-90.25,29.0833333333333,Tursiops aduncus,mammal_marine,NT
+117_OSV Southern Dancer,-90.25,29.0833333333333,Tursiops aduncus,mammal_marine,NT
+118_Caribbean Petroleum Corporation (CAPECO),-66.0833333333333,18.4166666666667,Balaenoptera musculus,mammal_marine,EN
+118_Caribbean Petroleum Corporation (CAPECO),-66.0833333333333,18.4166666666667,Balaenoptera musculus,mammal_marine,EN
+118_Caribbean Petroleum Corporation (CAPECO),-66.0833333333333,18.4166666666667,Pseudorca crassidens,mammal_marine,NT
+118_Caribbean Petroleum Corporation (CAPECO),-66.0833333333333,18.4166666666667,Pseudorca crassidens,mammal_marine,NT
+118_Caribbean Petroleum Corporation (CAPECO),-66.0833333333333,18.4166666666667,Tursiops aduncus,mammal_marine,NT
+118_Caribbean Petroleum Corporation (CAPECO),-66.0833333333333,18.4166666666667,Tursiops aduncus,mammal_marine,NT
+119_TV Titan Express,-80.25,25.75,Eubalaena glacialis,mammal_marine,CR
+119_TV Titan Express,-80.25,25.75,Eubalaena glacialis,mammal_marine,CR
+119_TV Titan Express,-80.25,25.75,Physeter macrocephalus,mammal_marine,VU
+119_TV Titan Express,-80.25,25.75,Physeter macrocephalus,mammal_marine,VU
+119_TV Titan Express,-80.25,25.75,Pseudorca crassidens,mammal_marine,NT
+119_TV Titan Express,-80.25,25.75,Pseudorca crassidens,mammal_marine,NT
+119_TV Titan Express,-80.25,25.75,Tursiops aduncus,mammal_marine,NT
+119_TV Titan Express,-80.25,25.75,Tursiops aduncus,mammal_marine,NT
+120_Capt Mike,-88.9166666666667,29.4166666666667,Eubalaena glacialis,mammal_marine,CR
+120_Capt Mike,-88.9166666666667,29.4166666666667,Eubalaena glacialis,mammal_marine,CR
+120_Capt Mike,-88.9166666666667,29.4166666666667,Physeter macrocephalus,mammal_marine,VU
+120_Capt Mike,-88.9166666666667,29.4166666666667,Physeter macrocephalus,mammal_marine,VU
+120_Capt Mike,-88.9166666666667,29.4166666666667,Pseudorca crassidens,mammal_marine,NT
+120_Capt Mike,-88.9166666666667,29.4166666666667,Pseudorca crassidens,mammal_marine,NT
+120_Capt Mike,-88.9166666666667,29.4166666666667,Tursiops aduncus,mammal_marine,NT
+120_Capt Mike,-88.9166666666667,29.4166666666667,Tursiops aduncus,mammal_marine,NT
+121_Pipeline-3,-89.25,29.25,Eubalaena glacialis,mammal_marine,CR
+121_Pipeline-3,-89.25,29.25,Eubalaena glacialis,mammal_marine,CR
+121_Pipeline-3,-89.25,29.25,Physeter macrocephalus,mammal_marine,VU
+121_Pipeline-3,-89.25,29.25,Physeter macrocephalus,mammal_marine,VU
+121_Pipeline-3,-89.25,29.25,Pseudorca crassidens,mammal_marine,NT
+121_Pipeline-3,-89.25,29.25,Pseudorca crassidens,mammal_marine,NT
+122_Deepwater Horizon Well Head,-88.4166666666667,28.75,Physeter macrocephalus,mammal_marine,VU
+122_Deepwater Horizon Well Head,-88.4166666666667,28.75,Physeter macrocephalus,mammal_marine,VU
+122_Deepwater Horizon Well Head,-88.4166666666667,28.75,Pseudorca crassidens,mammal_marine,NT
+122_Deepwater Horizon Well Head,-88.4166666666667,28.75,Pseudorca crassidens,mammal_marine,NT
+123_MV Miss Maridith,-80.0833333333333,25.4166666666667,Pseudorca crassidens,mammal_marine,NT
+123_MV Miss Maridith,-80.0833333333333,25.4166666666667,Pseudorca crassidens,mammal_marine,NT
+123_MV Miss Maridith,-80.0833333333333,25.4166666666667,Tursiops aduncus,mammal_marine,NT
+123_MV Miss Maridith,-80.0833333333333,25.4166666666667,Tursiops aduncus,mammal_marine,NT
+124_FV Miss Kaitlin,-80.75,28.25,Eubalaena glacialis,mammal_marine,CR
+124_FV Miss Kaitlin,-80.75,28.25,Eubalaena glacialis,mammal_marine,CR
+124_FV Miss Kaitlin,-80.75,28.25,Physeter macrocephalus,mammal_marine,VU
+124_FV Miss Kaitlin,-80.75,28.25,Physeter macrocephalus,mammal_marine,VU
+124_FV Miss Kaitlin,-80.75,28.25,Pseudorca crassidens,mammal_marine,NT
+124_FV Miss Kaitlin,-80.75,28.25,Pseudorca crassidens,mammal_marine,NT
+124_FV Miss Kaitlin,-80.75,28.25,Tursiops aduncus,mammal_marine,NT
+124_FV Miss Kaitlin,-80.75,28.25,Tursiops aduncus,mammal_marine,NT
+125_Dock Spill,-80.5833333333333,28.4166666666667,Eubalaena glacialis,mammal_marine,CR
+125_Dock Spill,-80.5833333333333,28.4166666666667,Eubalaena glacialis,mammal_marine,CR
+125_Dock Spill,-80.5833333333333,28.4166666666667,Physeter macrocephalus,mammal_marine,VU
+125_Dock Spill,-80.5833333333333,28.4166666666667,Physeter macrocephalus,mammal_marine,VU
+125_Dock Spill,-80.5833333333333,28.4166666666667,Pseudorca crassidens,mammal_marine,NT
+125_Dock Spill,-80.5833333333333,28.4166666666667,Pseudorca crassidens,mammal_marine,NT
+125_Dock Spill,-80.5833333333333,28.4166666666667,Tursiops aduncus,mammal_marine,NT
+125_Dock Spill,-80.5833333333333,28.4166666666667,Tursiops aduncus,mammal_marine,NT
+126_Cedyco Manila Village Pipeline,-89.9166666666667,29.5833333333333,Eubalaena glacialis,mammal_marine,CR
+126_Cedyco Manila Village Pipeline,-89.9166666666667,29.5833333333333,Eubalaena glacialis,mammal_marine,CR
+126_Cedyco Manila Village Pipeline,-89.9166666666667,29.5833333333333,Physeter macrocephalus,mammal_marine,VU
+126_Cedyco Manila Village Pipeline,-89.9166666666667,29.5833333333333,Physeter macrocephalus,mammal_marine,VU
+126_Cedyco Manila Village Pipeline,-89.9166666666667,29.5833333333333,Pseudorca crassidens,mammal_marine,NT
+126_Cedyco Manila Village Pipeline,-89.9166666666667,29.5833333333333,Pseudorca crassidens,mammal_marine,NT
+127_Offshore Well Head,-93.5833333333333,29.75,Eubalaena glacialis,mammal_marine,CR
+127_Offshore Well Head,-93.5833333333333,29.75,Eubalaena glacialis,mammal_marine,CR
+127_Offshore Well Head,-93.5833333333333,29.75,Physeter macrocephalus,mammal_marine,VU
+127_Offshore Well Head,-93.5833333333333,29.75,Physeter macrocephalus,mammal_marine,VU
+127_Offshore Well Head,-93.5833333333333,29.75,Pseudorca crassidens,mammal_marine,NT
+127_Offshore Well Head,-93.5833333333333,29.75,Pseudorca crassidens,mammal_marine,NT
+127_Offshore Well Head,-93.5833333333333,29.75,Tursiops aduncus,mammal_marine,NT
+127_Offshore Well Head,-93.5833333333333,29.75,Tursiops aduncus,mammal_marine,NT
+128_Pipeline-4,-89.4166666666667,29.0833333333333,Physeter macrocephalus,mammal_marine,VU
+128_Pipeline-4,-89.4166666666667,29.0833333333333,Physeter macrocephalus,mammal_marine,VU
+128_Pipeline-4,-89.4166666666667,29.0833333333333,Pseudorca crassidens,mammal_marine,NT
+128_Pipeline-4,-89.4166666666667,29.0833333333333,Pseudorca crassidens,mammal_marine,NT
+128_Pipeline-4,-89.4166666666667,29.0833333333333,Tursiops aduncus,mammal_marine,NT
+128_Pipeline-4,-89.4166666666667,29.0833333333333,Tursiops aduncus,mammal_marine,NT
+129_Energy 21 Pipeline,-89.75,29.0833333333333,Eubalaena glacialis,mammal_marine,CR
+129_Energy 21 Pipeline,-89.75,29.0833333333333,Eubalaena glacialis,mammal_marine,CR
+129_Energy 21 Pipeline,-89.75,29.0833333333333,Physeter macrocephalus,mammal_marine,VU
+129_Energy 21 Pipeline,-89.75,29.0833333333333,Physeter macrocephalus,mammal_marine,VU
+129_Energy 21 Pipeline,-89.75,29.0833333333333,Pseudorca crassidens,mammal_marine,NT
+129_Energy 21 Pipeline,-89.75,29.0833333333333,Pseudorca crassidens,mammal_marine,NT
+129_Energy 21 Pipeline,-89.75,29.0833333333333,Tursiops aduncus,mammal_marine,NT
+129_Energy 21 Pipeline,-89.75,29.0833333333333,Tursiops aduncus,mammal_marine,NT
+130_Hansa Berlin,-82.75,23.0833333333333,Physeter macrocephalus,mammal_marine,VU
+130_Hansa Berlin,-82.75,23.0833333333333,Physeter macrocephalus,mammal_marine,VU
+130_Hansa Berlin,-82.75,23.0833333333333,Pseudorca crassidens,mammal_marine,NT
+130_Hansa Berlin,-82.75,23.0833333333333,Pseudorca crassidens,mammal_marine,NT
+131_Tug Miss Melinda,-89.5833333333333,29.25,Eubalaena glacialis,mammal_marine,CR
+131_Tug Miss Melinda,-89.5833333333333,29.25,Eubalaena glacialis,mammal_marine,CR
+131_Tug Miss Melinda,-89.5833333333333,29.25,Physeter macrocephalus,mammal_marine,VU
+131_Tug Miss Melinda,-89.5833333333333,29.25,Physeter macrocephalus,mammal_marine,VU
+131_Tug Miss Melinda,-89.5833333333333,29.25,Pseudorca crassidens,mammal_marine,NT
+131_Tug Miss Melinda,-89.5833333333333,29.25,Pseudorca crassidens,mammal_marine,NT
+131_Tug Miss Melinda,-89.5833333333333,29.25,Tursiops aduncus,mammal_marine,NT
+131_Tug Miss Melinda,-89.5833333333333,29.25,Tursiops aduncus,mammal_marine,NT
+132_MV Matthew I,-65.4166666666667,16.75,Physeter macrocephalus,mammal_marine,VU
+132_MV Matthew I,-65.4166666666667,16.75,Physeter macrocephalus,mammal_marine,VU
+132_MV Matthew I,-65.4166666666667,16.75,Pseudorca crassidens,mammal_marine,NT
+132_MV Matthew I,-65.4166666666667,16.75,Pseudorca crassidens,mammal_marine,NT
+133_Hercules 265 Well Head,-90.5833333333333,28.4166666666667,Eubalaena glacialis,mammal_marine,CR
+133_Hercules 265 Well Head,-90.5833333333333,28.4166666666667,Eubalaena glacialis,mammal_marine,CR
+133_Hercules 265 Well Head,-90.5833333333333,28.4166666666667,Physeter macrocephalus,mammal_marine,VU
+133_Hercules 265 Well Head,-90.5833333333333,28.4166666666667,Physeter macrocephalus,mammal_marine,VU
+133_Hercules 265 Well Head,-90.5833333333333,28.4166666666667,Pseudorca crassidens,mammal_marine,NT
+133_Hercules 265 Well Head,-90.5833333333333,28.4166666666667,Pseudorca crassidens,mammal_marine,NT
+133_Hercules 265 Well Head,-90.5833333333333,28.4166666666667,Tursiops aduncus,mammal_marine,NT
+133_Hercules 265 Well Head,-90.5833333333333,28.4166666666667,Tursiops aduncus,mammal_marine,NT
+134_Hilcorp Energy Texaco Canal,-90.0833333333333,29.5833333333333,Physeter macrocephalus,mammal_marine,VU
+134_Hilcorp Energy Texaco Canal,-90.0833333333333,29.5833333333333,Physeter macrocephalus,mammal_marine,VU
+134_Hilcorp Energy Texaco Canal,-90.0833333333333,29.5833333333333,Pseudorca crassidens,mammal_marine,NT
+134_Hilcorp Energy Texaco Canal,-90.0833333333333,29.5833333333333,Pseudorca crassidens,mammal_marine,NT
+135_FV Cheyenne,-82.25,25.9166666666667,Eubalaena glacialis,mammal_marine,CR
+135_FV Cheyenne,-82.25,25.9166666666667,Eubalaena glacialis,mammal_marine,CR
+135_FV Cheyenne,-82.25,25.9166666666667,Physeter macrocephalus,mammal_marine,VU
+135_FV Cheyenne,-82.25,25.9166666666667,Physeter macrocephalus,mammal_marine,VU
+135_FV Cheyenne,-82.25,25.9166666666667,Pseudorca crassidens,mammal_marine,NT
+135_FV Cheyenne,-82.25,25.9166666666667,Pseudorca crassidens,mammal_marine,NT
+135_FV Cheyenne,-82.25,25.9166666666667,Tursiops aduncus,mammal_marine,NT
+135_FV Cheyenne,-82.25,25.9166666666667,Tursiops aduncus,mammal_marine,NT
+136_Saratoga Resources Main Pass 25,-89.4166666666667,29.5833333333333,Eubalaena glacialis,mammal_marine,CR
+136_Saratoga Resources Main Pass 25,-89.4166666666667,29.5833333333333,Eubalaena glacialis,mammal_marine,CR
+136_Saratoga Resources Main Pass 25,-89.4166666666667,29.5833333333333,Physeter macrocephalus,mammal_marine,VU
+136_Saratoga Resources Main Pass 25,-89.4166666666667,29.5833333333333,Physeter macrocephalus,mammal_marine,VU
+136_Saratoga Resources Main Pass 25,-89.4166666666667,29.5833333333333,Pseudorca crassidens,mammal_marine,NT
+136_Saratoga Resources Main Pass 25,-89.4166666666667,29.5833333333333,Pseudorca crassidens,mammal_marine,NT
+137_Tug Neptune,-80.0833333333333,25.75,Eubalaena glacialis,mammal_marine,CR
+137_Tug Neptune,-80.0833333333333,25.75,Eubalaena glacialis,mammal_marine,CR
+137_Tug Neptune,-80.0833333333333,25.75,Physeter macrocephalus,mammal_marine,VU
+137_Tug Neptune,-80.0833333333333,25.75,Physeter macrocephalus,mammal_marine,VU
+137_Tug Neptune,-80.0833333333333,25.75,Pseudorca crassidens,mammal_marine,NT
+137_Tug Neptune,-80.0833333333333,25.75,Pseudorca crassidens,mammal_marine,NT
+137_Tug Neptune,-80.0833333333333,25.75,Tursiops aduncus,mammal_marine,NT
+137_Tug Neptune,-80.0833333333333,25.75,Tursiops aduncus,mammal_marine,NT
+138_Octave Header Bulkline,-89.25,29.25,Eubalaena glacialis,mammal_marine,CR
+138_Octave Header Bulkline,-89.25,29.25,Eubalaena glacialis,mammal_marine,CR
+138_Octave Header Bulkline,-89.25,29.25,Physeter macrocephalus,mammal_marine,VU
+138_Octave Header Bulkline,-89.25,29.25,Physeter macrocephalus,mammal_marine,VU
+138_Octave Header Bulkline,-89.25,29.25,Pseudorca crassidens,mammal_marine,NT
+138_Octave Header Bulkline,-89.25,29.25,Pseudorca crassidens,mammal_marine,NT
+139_Petroleum Resource Management,-89.75,29.4166666666667,NA,NA,NA
+140_Shrimp Vessel unspecified,-89.4166666666667,28.75,Eubalaena glacialis,mammal_marine,CR
+140_Shrimp Vessel unspecified,-89.4166666666667,28.75,Eubalaena glacialis,mammal_marine,CR
+140_Shrimp Vessel unspecified,-89.4166666666667,28.75,Physeter macrocephalus,mammal_marine,VU
+140_Shrimp Vessel unspecified,-89.4166666666667,28.75,Physeter macrocephalus,mammal_marine,VU
+140_Shrimp Vessel unspecified,-89.4166666666667,28.75,Pseudorca crassidens,mammal_marine,NT
+140_Shrimp Vessel unspecified,-89.4166666666667,28.75,Pseudorca crassidens,mammal_marine,NT
+140_Shrimp Vessel unspecified,-89.4166666666667,28.75,Tursiops aduncus,mammal_marine,NT
+140_Shrimp Vessel unspecified,-89.4166666666667,28.75,Tursiops aduncus,mammal_marine,NT
+141_Hilcorp Bay St Elaine Pipeline,-90.75,29.25,Eubalaena glacialis,mammal_marine,CR
+141_Hilcorp Bay St Elaine Pipeline,-90.75,29.25,Eubalaena glacialis,mammal_marine,CR
+141_Hilcorp Bay St Elaine Pipeline,-90.75,29.25,Physeter macrocephalus,mammal_marine,VU
+141_Hilcorp Bay St Elaine Pipeline,-90.75,29.25,Physeter macrocephalus,mammal_marine,VU
+141_Hilcorp Bay St Elaine Pipeline,-90.75,29.25,Pseudorca crassidens,mammal_marine,NT
+141_Hilcorp Bay St Elaine Pipeline,-90.75,29.25,Pseudorca crassidens,mammal_marine,NT
+142_Pipeline rupture-2,-61.5833333333333,10.25,Pseudorca crassidens,mammal_marine,NT
+142_Pipeline rupture-2,-61.5833333333333,10.25,Pseudorca crassidens,mammal_marine,NT
+143_Dune Garden Island Bay 414 Pipeline,-89.0833333333333,29.0833333333333,Physeter macrocephalus,mammal_marine,VU
+143_Dune Garden Island Bay 414 Pipeline,-89.0833333333333,29.0833333333333,Physeter macrocephalus,mammal_marine,VU
+143_Dune Garden Island Bay 414 Pipeline,-89.0833333333333,29.0833333333333,Pseudorca crassidens,mammal_marine,NT
+143_Dune Garden Island Bay 414 Pipeline,-89.0833333333333,29.0833333333333,Pseudorca crassidens,mammal_marine,NT
+143_Dune Garden Island Bay 414 Pipeline,-89.0833333333333,29.0833333333333,Tursiops aduncus,mammal_marine,NT
+143_Dune Garden Island Bay 414 Pipeline,-89.0833333333333,29.0833333333333,Tursiops aduncus,mammal_marine,NT
+144_Tug Nalani,-158.083333333333,21.25,Balaenoptera musculus,mammal_marine,EN
+144_Tug Nalani,-158.083333333333,21.25,Balaenoptera musculus,mammal_marine,EN
+144_Tug Nalani,-158.083333333333,21.25,Physeter macrocephalus,mammal_marine,VU
+144_Tug Nalani,-158.083333333333,21.25,Physeter macrocephalus,mammal_marine,VU
+144_Tug Nalani,-158.083333333333,21.25,Pseudorca crassidens,mammal_marine,NT
+144_Tug Nalani,-158.083333333333,21.25,Pseudorca crassidens,mammal_marine,NT
+145_Pemex Platform,-92.25,19.25,Pseudorca crassidens,mammal_marine,NT
+145_Pemex Platform,-92.25,19.25,Pseudorca crassidens,mammal_marine,NT
+145_Pemex Platform,-92.25,19.25,Tursiops aduncus,mammal_marine,NT
+145_Pemex Platform,-92.25,19.25,Tursiops aduncus,mammal_marine,NT
+146_East Wax Lake Pipeline,-91.4166666666667,29.5833333333333,Physeter macrocephalus,mammal_marine,VU
+146_East Wax Lake Pipeline,-91.4166666666667,29.5833333333333,Physeter macrocephalus,mammal_marine,VU
+147_El Faro,-73.25,23.0833333333333,Physeter macrocephalus,mammal_marine,VU
+147_El Faro,-73.25,23.0833333333333,Physeter macrocephalus,mammal_marine,VU
+147_El Faro,-73.25,23.0833333333333,Pseudorca crassidens,mammal_marine,NT
+147_El Faro,-73.25,23.0833333333333,Pseudorca crassidens,mammal_marine,NT
+148_Ship Shoal Block 233 Pipeline,-90.9166666666667,28.4166666666667,Eubalaena glacialis,mammal_marine,CR
+148_Ship Shoal Block 233 Pipeline,-90.9166666666667,28.4166666666667,Eubalaena glacialis,mammal_marine,CR
+148_Ship Shoal Block 233 Pipeline,-90.9166666666667,28.4166666666667,Physeter macrocephalus,mammal_marine,VU
+148_Ship Shoal Block 233 Pipeline,-90.9166666666667,28.4166666666667,Physeter macrocephalus,mammal_marine,VU
+148_Ship Shoal Block 233 Pipeline,-90.9166666666667,28.4166666666667,Pseudorca crassidens,mammal_marine,NT
+148_Ship Shoal Block 233 Pipeline,-90.9166666666667,28.4166666666667,Pseudorca crassidens,mammal_marine,NT
+149_Downed Military Aircraft,-158.083333333333,21.5833333333333,Balaenoptera musculus,mammal_marine,EN
+149_Downed Military Aircraft,-158.083333333333,21.5833333333333,Balaenoptera musculus,mammal_marine,EN
+149_Downed Military Aircraft,-158.083333333333,21.5833333333333,Physeter macrocephalus,mammal_marine,VU
+149_Downed Military Aircraft,-158.083333333333,21.5833333333333,Physeter macrocephalus,mammal_marine,VU
+149_Downed Military Aircraft,-158.083333333333,21.5833333333333,Pseudorca crassidens,mammal_marine,NT
+149_Downed Military Aircraft,-158.083333333333,21.5833333333333,Pseudorca crassidens,mammal_marine,NT
+150_MV Serena III,-79.9166666666667,26.25,Physeter macrocephalus,mammal_marine,VU
+150_MV Serena III,-79.9166666666667,26.25,Physeter macrocephalus,mammal_marine,VU
+150_MV Serena III,-79.9166666666667,26.25,Pseudorca crassidens,mammal_marine,NT
+150_MV Serena III,-79.9166666666667,26.25,Pseudorca crassidens,mammal_marine,NT
+151_Experimental Field Trials*-1,-82.25,9.41666666666667,Balaenoptera musculus,mammal_marine,EN
+151_Experimental Field Trials*-1,-82.25,9.41666666666667,Balaenoptera musculus,mammal_marine,EN
+151_Experimental Field Trials*-1,-82.25,9.41666666666667,Pseudorca crassidens,mammal_marine,NT
+151_Experimental Field Trials*-1,-82.25,9.41666666666667,Pseudorca crassidens,mammal_marine,NT
+151_Experimental Field Trials*-1,-82.25,9.41666666666667,Tursiops aduncus,mammal_marine,NT
+151_Experimental Field Trials*-1,-82.25,9.41666666666667,Tursiops aduncus,mammal_marine,NT
+152_Experimental Field Trials*-2,-80.25,25.4166666666667,Eubalaena glacialis,mammal_marine,CR
+152_Experimental Field Trials*-2,-80.25,25.4166666666667,Eubalaena glacialis,mammal_marine,CR
+152_Experimental Field Trials*-2,-80.25,25.4166666666667,Physeter macrocephalus,mammal_marine,VU
+152_Experimental Field Trials*-2,-80.25,25.4166666666667,Physeter macrocephalus,mammal_marine,VU
+152_Experimental Field Trials*-2,-80.25,25.4166666666667,Pseudorca crassidens,mammal_marine,NT
+152_Experimental Field Trials*-2,-80.25,25.4166666666667,Pseudorca crassidens,mammal_marine,NT
+152_Experimental Field Trials*-2,-80.25,25.4166666666667,Tursiops aduncus,mammal_marine,NT
+152_Experimental Field Trials*-2,-80.25,25.4166666666667,Tursiops aduncus,mammal_marine,NT
